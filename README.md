@@ -10,13 +10,13 @@ Generally, I've found that the Open Source community is just that - a community.
 
 Montreal is no exception. If you're interested in Open Source, it's likely you ended up one day at [Notman House](https://github.com/maison-notman-house). If you're learning to code, it's likely you've heard of [Les Pitonneux](https://github.com/pitonneux). If you're building an open source business, you might know that [Shopify](https://github.com/shopify) was cofounded by a Quebecois. If you're a gamer, you might know that Ubisoft's Prince Of Persia was made here, and that the original source code is [on GitHub](https://github.com/jmechner/Prince-of-Persia-Apple-II).
 
-I want to build a list where we can see and learn about each other's code, just a bit easier, in the open. 
+I want to build a list where we can see and learn about each other's code, just a bit easier, in the open.
 
 ## Projects
 
 These projects have been developed mainly in Montréal, or by Montréalers.
 
-- [Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89 http://jordanmechner.com/ebook.
+- [Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](http://jordanmechner.com/ebook).
 
 ## GitHub Organizations (Companies or Projects)
 
@@ -35,6 +35,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 
 ## Incubators, Schools, and Communities
 
+- [DecodeMTL](https://github.com/DecodeMTL) - Full-stack JavaScript bootcamp in Montreal, Canada. [Website](https://www.decodemtl.com/).
 - [Les Pitonneux](https://github.com/pitonneux) - A skills incubator in Montreal for people learning to code online. [Website](http://pitonneux.com).
 - [Nodeschool Montreal](https://github.com/nodeschool/montreal) - Montreal NodeSchool chapter. [Website](http://nodeschool.io/montreal/).
 - [Notman House (startup community)](https://github.com/maison-notman-house) - Various parts of this publically accessible building are powered via these open-source repositories on github. [Website](http://notman.org)
