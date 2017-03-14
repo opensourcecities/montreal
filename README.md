@@ -23,6 +23,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 ## GitHub Organizations (Companies or Projects)
 
 - [@BetterMTL](https://github.com/bettermtl) - Data layered to engage city-wide activities and teams. [Website]( http://bettermtl.com).
+- [@busbud](https://github.com/busbud) [Website](https://www.busbud.com/).
 - [@MeteorMTL](https://github.com/MeteorMTL)
 - [@wet-boew](https://github.com/wet-boew) - Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.
 
