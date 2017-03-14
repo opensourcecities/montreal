@@ -19,6 +19,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [AmpMe](https://github.com/AmpMe) - Sync your phone with friends to create the world's most portable sound system. [Website](http://ampme.com/).
 - [Parse](https://github.com/parseplatform) - [Website](https://parseplatform.github.io).
 - [Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](http://jordanmechner.com/ebook).
+- [SVProgressHUD](https://github.com/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
 
 ## GitHub Organizations (Companies or Projects)
 
