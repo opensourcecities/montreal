@@ -37,6 +37,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@pcuci](https://github.com/pcuci) - Health-tech entrepreneur, game ops tech lead, full-stack UXer, community architect. [Website](http://bettermtl.com).
 - [@RichardLitt](https://github.com/RichardLitt) - Full stack JavaScript developer, computational linguist, and community organizer. [Website](https://burntfen.com).
 - [@samvermette](https://github.com/samvermette) - iOS developer and designer based in Montréal. [Website](http://samvermette.com/)
+- [@sayar](https://github.com/sayar) - Senior Tech Evangelist @MicrosoftDX. [Website](https://ramisayar.com/).
 - [@shawnthompson](https://github.com/shawnthompson) - Front end web developer for the Government of Canada.
 - [@ziad-saab](https://github.com/ziad-saab) - Full-stack developer and teacher at DecodeMTL. [Website](http://www.ziad.cc/).
 
