@@ -26,6 +26,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@BetterMTL](https://github.com/bettermtl) - Data layered to engage city-wide activities and teams. [Website]( http://bettermtl.com).
 - [@busbud](https://github.com/busbud) [Website](https://www.busbud.com/).
 - [@MeteorMTL](https://github.com/MeteorMTL)
+- [@TransitApp](https://github.com/transitapp) - A commuter helping company. [Website](https://transitapp.com/).
 - [@wet-boew](https://github.com/wet-boew) - Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.
 
 ## Users with Open Source projects
@@ -35,6 +36,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@Marek](https://github.com/marekweb) - [Website](http://www.marekzaluski.com/).
 - [@pcuci](https://github.com/pcuci) - Health-tech entrepreneur, game ops tech lead, full-stack UXer, community architect. [Website](http://bettermtl.com).
 - [@RichardLitt](https://github.com/RichardLitt) - Full stack JavaScript developer, computational linguist, and community organizer. [Website](https://burntfen.com).
+- [@samvermette](https://github.com/samvermette) - iOS developer and designer based in Montréal. [Website](http://samvermette.com/)
 - [@shawnthompson](https://github.com/shawnthompson) - Front end web developer for the Government of Canada.
 - [@ziad-saab](https://github.com/ziad-saab) - Full-stack developer and teacher at DecodeMTL. [Website](http://www.ziad.cc/).
 
