@@ -17,6 +17,8 @@ I want to build a list where we can see and learn about each other's code, just 
 These projects have been developed mainly in Montréal, or by Montréalers.
 
 - [AmpMe](https://github.com/AmpMe) - Sync your phone with friends to create the world's most portable sound system. [Website](http://ampme.com/).
+- [Compactr](https://github.com/compactr) - Serialization protocol.
+- [Kalm](https://github.com/fed135/Kalm) - Node socket wrapper and optimizer. [Website](http://kalm.js.org/). (In development: [@Kalm](https://github.com/kalm))
 - [MLDB.ai](https://github.com/mldbai/mldb) - An open-source database designed for machine learning. [Website](http://mldb.ai/).
 - [Parse](https://github.com/parseplatform) - [Website](https://parseplatform.github.io).
 - [pivottable](https://github.com/nicolaskruchten/pivottable) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. [Website](http://nicolas.kruchten.com/pivottable).
@@ -28,6 +30,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 
 - [@BetterMTL](https://github.com/bettermtl) - Data layered to engage city-wide activities and teams. [Website]( http://bettermtl.com).
 - [@busbud](https://github.com/busbud) [Website](https://www.busbud.com/).
+- [@fed135](https://github.com/fed135) - I ❤️ Node - - - - - - - - - - - - - - - - - - Curr: Software Eng. @shutterstock Past: EA, Ubisoft, Stolo. 
 - [@MeteorMTL](https://github.com/MeteorMTL)
 - [@mldbai](https://github.com/mldbai) [Website](https://mldb.ai/).
 - [@plotly](https://github.com/plotly) - A data visualization company. [Website](https://plot.ly)
