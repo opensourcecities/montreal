@@ -17,11 +17,11 @@ I want to build a list where we can see and learn about each other's code, just 
 These projects have been developed mainly in Montréal, or by Montréalers.
 
 - [AmpMe](https://github.com/AmpMe) - Sync your phone with friends to create the world's most portable sound system. [Website](http://ampme.com/).
+- [MLDB.ai](http://mldb.ai/) - an open-source database designed for machine learning. 
 - [Parse](https://github.com/parseplatform) - [Website](https://parseplatform.github.io).
 - [plotly.js](https://github.com/plotly/plotly.js) - Javascript graphing library
 - [Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](http://jordanmechner.com/ebook).
 - [SVProgressHUD](https://github.com/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
-- [MLDB.ai](http://mldb.ai/) - an open-source database designed for machine learning. 
 
 ## GitHub Organizations (Companies or Projects)
 
