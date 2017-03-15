@@ -43,6 +43,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@sayar](https://github.com/sayar) - Senior Tech Evangelist @MicrosoftDX. [Website](https://ramisayar.com/).
 - [@shawnthompson](https://github.com/shawnthompson) - Front end web developer for the Government of Canada.
 - [@ziad-saab](https://github.com/ziad-saab) - Full-stack developer and teacher at DecodeMTL. [Website](http://www.ziad.cc/).
+- [@nicolaskruchten](https://github.com/nicolaskruchten) - Software developer and data scientist; author of [PivotTable.js](http://nicolas.kruchten.com/pivottable).
 
 ## Incubators, Schools, and Communities
 
