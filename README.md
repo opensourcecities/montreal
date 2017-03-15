@@ -21,6 +21,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [plotly.js](https://github.com/plotly/plotly.js) - Javascript graphing library
 - [Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](http://jordanmechner.com/ebook).
 - [SVProgressHUD](https://github.com/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
+- [MLDB.ai](http://mldb.ai/) - an open-source database designed for machine learning. 
 
 ## GitHub Organizations (Companies or Projects)
 
