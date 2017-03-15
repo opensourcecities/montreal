@@ -32,6 +32,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 ## Users with Open Source projects
 
 - [@ajmas](https://github.com/ajmas) - [Website](http://terra-azure.org).
+- [@chriddyp](https://github.com/chriddyp)
 - [@flovilmart](https://twitter.com/flovilmart) - Dad, Core Contributor on https://github.com/parseplatform/parse-server and @parse-server-modules. Tech Lead @AmpMe.
 - [@Marek](https://github.com/marekweb) - [Website](http://www.marekzaluski.com/).
 - [@pcuci](https://github.com/pcuci) - Health-tech entrepreneur, game ops tech lead, full-stack UXer, community architect. [Website](http://bettermtl.com).
