@@ -59,6 +59,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [La Maison du Logiciel Libre Project List](https://maisonlogiciellibre.org/projects/index?lang=en_CA)
 - [Notman's Startup Community Map](http://notman.org/)
 - [NodeSchool Montreal's Project List](https://nodeschool.io/montreal/)
+- [Rollodeqc.com](https://streaker.rollodeqc.com/) - A live list of GitHub users publicly coding in Montreal (a streak counter for GitHub).
 
 ## Contribute
 
