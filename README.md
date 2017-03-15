@@ -24,16 +24,18 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [pivottable](https://github.com/nicolaskruchten/pivottable) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. [Website](http://nicolas.kruchten.com/pivottable).
 - [plotly.js](https://github.com/plotly/plotly.js) - Javascript graphing library
 - [Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](http://jordanmechner.com/ebook).
+- [pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API. [Website](http://pump.io/)
 - [SVProgressHUD](https://github.com/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
 
 ## GitHub Organizations (Companies or Projects)
 
 - [@BetterMTL](https://github.com/bettermtl) - Data layered to engage city-wide activities and teams. [Website]( http://bettermtl.com).
 - [@busbud](https://github.com/busbud) [Website](https://www.busbud.com/).
-- [@fed135](https://github.com/fed135) - I ❤️ Node - - - - - - - - - - - - - - - - - - Curr: Software Eng. @shutterstock Past: EA, Ubisoft, Stolo. 
+- [@e14n](https://github.com/e14n)
 - [@MeteorMTL](https://github.com/MeteorMTL)
 - [@mldbai](https://github.com/mldbai) [Website](https://mldb.ai/).
-- [@plotly](https://github.com/plotly) - A data visualization company. [Website](https://plot.ly)
+- [@plotly](https://github.com/plotly) - A data visualization company. [Website](https://plot.ly).
+- [@pump-io](https://github.com/pump-io) - Social server with an ActivityStreams API. [Website]( http://pump.io).
 - [@TransitApp](https://github.com/transitapp) - A commuter helping company. [Website](https://transitapp.com/).
 - [@wet-boew](https://github.com/wet-boew) - Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.
 
@@ -41,6 +43,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 
 - [@ajmas](https://github.com/ajmas) - [Website](http://terra-azure.org).
 - [@chriddyp](https://github.com/chriddyp)
+- [@fed135](https://github.com/fed135) - I ❤️ Node - - - - - - - - - - - - - - - - - - Curr: Software Eng. @shutterstock Past: EA, Ubisoft, Stolo.
 - [@flovilmart](https://twitter.com/flovilmart) - Dad, Core Contributor on https://github.com/parseplatform/parse-server and @parse-server-modules. Tech Lead @AmpMe.
 - [@Marek](https://github.com/marekweb) - [Website](http://www.marekzaluski.com/).
 - [@nicolaskruchten](https://github.com/nicolaskruchten) - Software developer and data scientist; author of [PivotTable.js](http://nicolas.kruchten.com/pivottable).
