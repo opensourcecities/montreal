@@ -65,6 +65,8 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 
 Please do! If you know of any resources that aren't here, add them. If you have any questions or want a feature, please [open an issue](https://github.com/RichardLitt/open-source-montreal/issues/new).
 
+If adding to the list, please keep the items alphabetized. Thank you.
+
 ## License
 
 This list is licensed under a [CC-BY 4.0 Unported License](https://creativecommons.org/licenses/by/4.0/), © 2017 Richard Littauer. If this isn't great for you, get in touch.
