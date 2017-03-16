@@ -18,17 +18,17 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 
 - [AmpMe](https://github.com/AmpMe) - Sync your phone with friends to create the world's most portable sound system. [Website](http://ampme.com/).
 - [Compactr](https://github.com/compactr) - Serialization protocol.
+- [jmechner/Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](http://jordanmechner.com/ebook).
 - [Kalm](https://github.com/fed135/Kalm) - Node socket wrapper and optimizer. [Website](http://kalm.js.org/). (In development: [@Kalm](https://github.com/kalm))
-- [MLDB.ai](https://github.com/mldbai/mldb) - An open-source database designed for machine learning. [Website](http://mldb.ai/).
-- [neuralconvo](https://github.com/macournoyer/neuralconvo) - Neural conversational model in Torch.
+- [macournoyer/neuralconvo](https://github.com/macournoyer/neuralconvo) - Neural conversational model in Torch.
+- [macournoyer/thin](https://github.com/macournoyer/thin) - A very fast & simple Ruby web server. [Website](http://code.macournoyer.com/thin/).
+- [macournoyer/tinyrb](https://github.com/macournoyer/tinyrb) - A tiny subset of Ruby with a Lua'esc VM. [Website]( http://code.macournoyer.com/tinyrb/).
+- [MLDB.ai](https://github.com/mldbai) - An open-source database designed for machine learning. [Website](http://mldb.ai/).
+- [nicolaskruchten/pivottable](https://github.com/nicolaskruchten/pivottable) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. [Website](http://nicolas.kruchten.com/pivottable).
 - [Parse](https://github.com/parseplatform) - [Website](https://parseplatform.github.io).
-- [pivottable](https://github.com/nicolaskruchten/pivottable) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. [Website](http://nicolas.kruchten.com/pivottable).
 - [plotly.js](https://github.com/plotly/plotly.js) - Javascript graphing library
-- [Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](http://jordanmechner.com/ebook).
 - [pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API. [Website](http://pump.io/)
 - [SVProgressHUD](https://github.com/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
-- [thin](https://github.com/macournoyer/thin) - A very fast & simple Ruby web server. [Website](http://code.macournoyer.com/thin/).
-- [tinyrb](https://github.com/macournoyer/tinyrb) - A tiny subset of Ruby with a Lua'esc VM. [Website]( http://code.macournoyer.com/tinyrb/).
 - [Wikitravel.org](http://wikitravel.org/en/Main_Page) - Since 2003: the original free, crowdsourced travel guide with 300,000 writer/travelers visiting every day.
 
 ## GitHub Organizations (Companies or Projects)
