@@ -47,6 +47,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@fed135](https://github.com/fed135) - I ❤️ Node - - - - - - - - - - - - - - - - - - Curr: Software Eng. @shutterstock Past: EA, Ubisoft, Stolo.
 - [@flovilmart](https://twitter.com/flovilmart) - Dad, Core Contributor on https://github.com/parseplatform/parse-server and @parse-server-modules. Tech Lead @AmpMe.
 - [@Marek](https://github.com/marekweb) - [Website](http://www.marekzaluski.com/).
+- [@macournoyer](https://github.com/macournoyer) - A very friendly code/life hacker from beautiful Montréal, QC.
 - [@nicolaskruchten](https://github.com/nicolaskruchten) - Software developer and data scientist; author of [PivotTable.js](http://nicolas.kruchten.com/pivottable).
 - [@pcuci](https://github.com/pcuci) - Health-tech entrepreneur, game ops tech lead, full-stack UXer, community architect. [Website](http://bettermtl.com).
 - [@RichardLitt](https://github.com/RichardLitt) - Full stack JavaScript developer, computational linguist, and community organizer. [Website](https://burntfen.com).
@@ -59,6 +60,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 
 - [DecodeMTL](https://github.com/DecodeMTL) - Full-stack JavaScript bootcamp in Montreal, Canada. [Website](https://www.decodemtl.com/).
 - [Les Pitonneux](https://github.com/pitonneux) - A skills incubator in Montreal for people learning to code online. [Website](http://pitonneux.com).
+- [Maison Logiciel Libre](https://github.com/maisonlogiciellibre) - [Website](https://maisonlogiciellibre.org/).
 - [Nodeschool Montreal](https://github.com/nodeschool/montreal) - Montreal NodeSchool chapter. [Website](http://nodeschool.io/montreal/).
 - [Notman House (startup community)](https://github.com/maison-notman-house) - Various parts of this publically accessible building are powered via these open-source repositories on github. [Website](http://notman.org)
 
