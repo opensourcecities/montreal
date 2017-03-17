@@ -18,12 +18,15 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 
 - [AmpMe](https://github.com/AmpMe) - Sync your phone with friends to create the world's most portable sound system. [Website](http://ampme.com/).
 - [Compactr](https://github.com/compactr) - Serialization protocol.
+- [jmechner/Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](http://jordanmechner.com/ebook).
 - [Kalm](https://github.com/fed135/Kalm) - Node socket wrapper and optimizer. [Website](http://kalm.js.org/). (In development: [@Kalm](https://github.com/kalm))
-- [MLDB.ai](https://github.com/mldbai/mldb) - An open-source database designed for machine learning. [Website](http://mldb.ai/).
+- [macournoyer/neuralconvo](https://github.com/macournoyer/neuralconvo) - Neural conversational model in Torch.
+- [macournoyer/thin](https://github.com/macournoyer/thin) - A very fast & simple Ruby web server. [Website](http://code.macournoyer.com/thin/).
+- [macournoyer/tinyrb](https://github.com/macournoyer/tinyrb) - A tiny subset of Ruby with a Lua'esc VM. [Website]( http://code.macournoyer.com/tinyrb/).
+- [MLDB.ai](https://github.com/mldbai) - An open-source database designed for machine learning. [Website](http://mldb.ai/).
+- [nicolaskruchten/pivottable](https://github.com/nicolaskruchten/pivottable) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. [Website](http://nicolas.kruchten.com/pivottable).
 - [Parse](https://github.com/parseplatform) - [Website](https://parseplatform.github.io).
-- [pivottable](https://github.com/nicolaskruchten/pivottable) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. [Website](http://nicolas.kruchten.com/pivottable).
 - [plotly.js](https://github.com/plotly/plotly.js) - Javascript graphing library
-- [Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](http://jordanmechner.com/ebook).
 - [pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API. [Website](http://pump.io/)
 - [SVProgressHUD](https://github.com/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
 - [Wikitravel.org](http://wikitravel.org/en/Main_Page) - Since 2003: the original free, crowdsourced travel guide with 300,000 writer/travelers visiting every day.
@@ -48,6 +51,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@fed135](https://github.com/fed135) - I ❤️ Node - - - - - - - - - - - - - - - - - - Curr: Software Eng. @shutterstock Past: EA, Ubisoft, Stolo.
 - [@flovilmart](https://twitter.com/flovilmart) - Dad, Core Contributor on https://github.com/parseplatform/parse-server and @parse-server-modules. Tech Lead @AmpMe.
 - [@Marek](https://github.com/marekweb) - [Website](http://www.marekzaluski.com/).
+- [@macournoyer](https://github.com/macournoyer) - A very friendly code/life hacker from beautiful Montréal, QC.
 - [@nbrochu](https://github.com/nbrochu) - I write open source stuff and release it under @SerpentAI 🐍. Python & JS. I also live stream on [Twitch](https://www.twitch.tv/serpent_ai)
 - [@nicolaskruchten](https://github.com/nicolaskruchten) - Software developer and data scientist; author of [PivotTable.js](http://nicolas.kruchten.com/pivottable).
 - [@pcuci](https://github.com/pcuci) - Health-tech entrepreneur, game ops tech lead, full-stack UXer, community architect. [Website](http://bettermtl.com).
@@ -61,6 +65,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 
 - [DecodeMTL](https://github.com/DecodeMTL) - Full-stack JavaScript bootcamp in Montreal, Canada. [Website](https://www.decodemtl.com/).
 - [Les Pitonneux](https://github.com/pitonneux) - A skills incubator in Montreal for people learning to code online. [Website](http://pitonneux.com).
+- [Maison Logiciel Libre](https://github.com/maisonlogiciellibre) - [Website](https://maisonlogiciellibre.org/).
 - [Nodeschool Montreal](https://github.com/nodeschool/montreal) - Montreal NodeSchool chapter. [Website](http://nodeschool.io/montreal/).
 - [Notman House (startup community)](https://github.com/maison-notman-house) - Various parts of this publically accessible building are powered via these open-source repositories on github. [Website](http://notman.org)
 
