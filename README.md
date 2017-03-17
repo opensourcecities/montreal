@@ -28,6 +28,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [Parse](https://github.com/parseplatform) - [Website](https://parseplatform.github.io).
 - [plotly.js](https://github.com/plotly/plotly.js) - Javascript graphing library
 - [pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API. [Website](http://pump.io/)
+- [Rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs. [Website](http://code.shutterstock.com/rickshaw/).
 - [SVProgressHUD](https://github.com/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
 - [Wikitravel.org](http://wikitravel.org/en/Main_Page) - Since 2003: the original free, crowdsourced travel guide with 300,000 writer/travelers visiting every day.
 
