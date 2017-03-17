@@ -37,6 +37,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@mldbai](https://github.com/mldbai) [Website](https://mldb.ai/).
 - [@plotly](https://github.com/plotly) - A data visualization company. [Website](https://plot.ly).
 - [@pump-io](https://github.com/pump-io) - Social server with an ActivityStreams API. [Website]( http://pump.io).
+- [@SerpentAI](https://github.com/SerpentAI) - Python, Machine Learning and Artificial Intelligence => Open Source Libraries.
 - [@TransitApp](https://github.com/transitapp) - A commuter helping company. [Website](https://transitapp.com/).
 - [@wet-boew](https://github.com/wet-boew) - Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.
 
@@ -47,6 +48,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@fed135](https://github.com/fed135) - I ❤️ Node - - - - - - - - - - - - - - - - - - Curr: Software Eng. @shutterstock Past: EA, Ubisoft, Stolo.
 - [@flovilmart](https://twitter.com/flovilmart) - Dad, Core Contributor on https://github.com/parseplatform/parse-server and @parse-server-modules. Tech Lead @AmpMe.
 - [@Marek](https://github.com/marekweb) - [Website](http://www.marekzaluski.com/).
+- [@nbrochu](https://github.com/nbrochu) - I write open source stuff and release it under @SerpentAI 🐍. Python & JS. I also live stream on Twitch: serpent_ai 🎥
 - [@nicolaskruchten](https://github.com/nicolaskruchten) - Software developer and data scientist; author of [PivotTable.js](http://nicolas.kruchten.com/pivottable).
 - [@pcuci](https://github.com/pcuci) - Health-tech entrepreneur, game ops tech lead, full-stack UXer, community architect. [Website](http://bettermtl.com).
 - [@RichardLitt](https://github.com/RichardLitt) - Full stack JavaScript developer, computational linguist, and community organizer. [Website](https://burntfen.com).
