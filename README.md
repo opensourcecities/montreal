@@ -2,6 +2,8 @@
 
 > A directory of companies, people, and projects that are Open Source and from Montréal
 
+Join the [**Slack Group**](https://opensourcemtl.slack.com/shared_invite/MTYwOTE4OTg0NzQxLTE0OTA3MTIwMDgtZTNmNTM0YmI0Zg)!
+
 ## Background
 
 Why is there a list combining a licensing model with a geographical location?
