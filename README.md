@@ -19,6 +19,7 @@ I want to build a list where we can see and learn about each other's code, just 
 These projects have been developed mainly in Montréal, or by Montréalers.
 
 - [AmpMe](https://github.com/AmpMe) - Sync your phone with friends to create the world's most portable sound system. [Website](http://ampme.com/).
+- [broidHQ/integrations](https://github.com/broidHQ/integrations) - Connect your App to Multiple Messaging Channels with the W3C Open standard. [Website](https://www.broid.ai).
 - [Compactr](https://github.com/compactr) - Serialization protocol.
 - [jmechner/Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](http://jordanmechner.com/ebook).
 - [Kalm](https://github.com/fed135/Kalm) - Node socket wrapper and optimizer. [Website](http://kalm.js.org/). (In development: [@Kalm](https://github.com/kalm))
