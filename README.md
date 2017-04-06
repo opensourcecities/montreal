@@ -41,6 +41,8 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@e14n](https://github.com/e14n)
 - [@MeteorMTL](https://github.com/MeteorMTL)
 - [@mldbai](https://github.com/mldbai) [Website](https://mldb.ai/).
+- [@mtlpy](https://github.com/mtlpy) [Website])(http://montrealpython.org/en/).
+- [@OpenNorth](https://github.com/opennorth/) - Open North creates websites to promote government transparency and public participation. [Website](http://www.opennorth.ca/).
 - [@plotly](https://github.com/plotly) - A data visualization company. [Website](https://plot.ly).
 - [@pump-io](https://github.com/pump-io) - Social server with an ActivityStreams API. [Website]( http://pump.io).
 - [@SerpentAI](https://github.com/SerpentAI) - Python, Machine Learning and Artificial Intelligence => Open Source Libraries.
@@ -53,6 +55,9 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@chriddyp](https://github.com/chriddyp)
 - [@fed135](https://github.com/fed135) - I ❤️ Node - - - - - - - - - - - - - - - - - - Curr: Software Eng. @shutterstock Past: EA, Ubisoft, Stolo.
 - [@flovilmart](https://twitter.com/flovilmart) - Dad, Core Contributor on https://github.com/parseplatform/parse-server and @parse-server-modules. Tech Lead @AmpMe.
+- [@jpmckinney](https://github.com/jpmckinney) - Contributions to OpenNorth and Montréal Ouvert
+- [@jvns](https://github.com/jvns) - Organizes [All Girl Hack Night](https://www.meetup.com/Montreal-All-Girl-Hack-Night/) [Website](http://jvns.ca/).
+- [@kamalmarhubi](https://github.com/kamalmarhubi) [Website](http://kamalmarhubi.com/).
 - [@Marek](https://github.com/marekweb) - [Website](http://www.marekzaluski.com/).
 - [@macournoyer](https://github.com/macournoyer) - A very friendly code/life hacker from beautiful Montréal, QC.
 - [@maxmx](https://github.com/maxmx) - Dev & Designer maintaining [Bootstrap Stylus](https://github.com/maxmx/bootstrap-stylus)
@@ -60,6 +65,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@nicolaskruchten](https://github.com/nicolaskruchten) - Software developer and data scientist; author of [PivotTable.js](http://nicolas.kruchten.com/pivottable).
 - [@pcuci](https://github.com/pcuci) - Health-tech entrepreneur, game ops tech lead, full-stack UXer, community architect. [Website](http://bettermtl.com).
 - [@RichardLitt](https://github.com/RichardLitt) - Full stack JavaScript developer, computational linguist, and community organizer. [Website](https://burntfen.com).
+- [@robroc](http://github.com/robroc) - Data journalist at CBC/Radio-Canada. Organizes [Hacks/Hackers MTL](https://www.meetup.com/hackshackersmontreal/).
 - [@ruyadorno](https://github.com/ruyadorno) - Software developer and open source contributor. [Website](http://ruyadorno.com).
 - [@samvermette](https://github.com/samvermette) - iOS developer and designer based in Montréal. [Website](http://samvermette.com/)
 - [@sayar](https://github.com/sayar) - Senior Tech Evangelist @MicrosoftDX. [Website](https://ramisayar.com/).
