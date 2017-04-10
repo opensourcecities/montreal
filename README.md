@@ -19,17 +19,17 @@ I want to build a list where we can see and learn about each other's code, just 
 These projects have been developed mainly in Montréal, or by Montréalers.
 
 - [AmpMe](https://github.com/AmpMe) - Sync your phone with friends to create the world's most portable sound system. [Website](http://ampme.com/).
-- [BadgeFactor](https://github.com/DigitalPygmalion/badge-factor) - Badge Factor is a "glue" plugin which brings together functionalities of BadgeOS, Gravity Forms and Advanced Custom Fields in a coherent, autonomous digital badge issuing and backpacking solution. [Website](http://www.badgefactor.com).
-- [broidHQ/integrations](https://github.com/broidHQ/integrations) - Connect your App to Multiple Messaging Channels with the W3C Open standard. [Website](https://www.broid.ai).
+- [BadgeFactor](https://github.com/DigitalPygmalion/badge-factor) - Badge Factor is a "glue" plugin which brings together functionalities of BadgeOS, Gravity Forms and Advanced Custom Fields in a coherent, autonomous digital badge issuing and backpacking solution. [Website](http://digitalpygmalion.com/).
+- [broidHQ/integrations](https://github.com/broidHQ/integrations) - Connect your App to Multiple Messaging Channels with the W3C Open standard.
 - [Compactr](https://github.com/compactr) - Serialization protocol.
-- [jmechner/Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](http://jordanmechner.com/ebook).
+- [jmechner/Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](http://www.jordanmechner.com/backstage/journals/).
 - [Kalm](https://github.com/kalm/kalm.js) - Node socket wrapper and optimizer. [Website](http://kalm.js.org/).
 - [macournoyer/neuralconvo](https://github.com/macournoyer/neuralconvo) - Neural conversational model in Torch.
 - [macournoyer/thin](https://github.com/macournoyer/thin) - A very fast & simple Ruby web server. [Website](http://code.macournoyer.com/thin/).
 - [macournoyer/tinyrb](https://github.com/macournoyer/tinyrb) - A tiny subset of Ruby with a Lua'esc VM. [Website]( http://code.macournoyer.com/tinyrb/).
-- [MLDB.ai](https://github.com/mldbai) - An open-source database designed for machine learning. [Website](http://mldb.ai/).
-- [nicolaskruchten/pivottable](https://github.com/nicolaskruchten/pivottable) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. [Website](http://nicolas.kruchten.com/pivottable).
-- [Parse](https://github.com/parseplatform) - [Website](https://parseplatform.github.io).
+- [MLDB.ai](https://github.com/mldbai) - An open-source database designed for machine learning. [Website](https://mldb.ai/).
+- [nicolaskruchten/pivottable](https://github.com/nicolaskruchten/pivottable/) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. [Website](http://nicolas.kruchten.com/pivottable/).
+- [Parse](https://github.com/parseplatform)
 - [plotly.js](https://github.com/plotly/plotly.js) - Javascript graphing library
 - [pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API. [Website](http://pump.io/)
 - [Rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs. [Website](http://code.shutterstock.com/rickshaw/).
