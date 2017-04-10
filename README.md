@@ -38,17 +38,27 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 
 ## GitHub Organizations (Companies or Projects)
 
-- [@BetterMTL](https://github.com/bettermtl) - Data layered to engage city-wide activities and teams. [Website]( http://bettermtl.com).
+- [@BetterMTL](https://github.com/bettermtl) - Data layered to engage city-wide activities and teams. [Website](http://bettermtl.com).
 - [@busbud](https://github.com/busbud) [Website](https://www.busbud.com/).
+- [@ctf](https://github.com/ctf) - McGill Science Computer Taskforce. [Website](http://taskforce.sus.mcgill.ca)
 - [@e14n](https://github.com/e14n)
+- [@HackMcGill](https://github.com/hackmcgill) - [Website](http://hackmcgill.com/).
+- [@McGill-AML](https://github.com/McGill-AML) - McGill Aerospace Mechatronics Laboratory.
+- [@McGill-CSB](https://github.com/McGill-CSB) - McGill Computational Structure Biology. [Website](http://csb.cs.mcgill.ca/).
+- [@McGill-Robotics](https://github.com/mcgill-robotics) - Engineering Design Team. [Website](http://mcgillrobotics.com/).
+- [@McGillX](https://github.com/McGillX) - McGillX: MOOC Initiative at McGill University [Website](http://www.mcgill.ca/tls/projects/mcgillx).
 - [@MeteorMTL](https://github.com/MeteorMTL)
 - [@mldbai](https://github.com/mldbai) [Website](https://mldb.ai/).
 - [@mtlpy](https://github.com/mtlpy) [Website])(http://montrealpython.org/en/).
 - [@OpenNorth](https://github.com/opennorth/) - Open North creates websites to promote government transparency and public participation. [Website](http://www.opennorth.ca/).
 - [@plotly](https://github.com/plotly) - A data visualization company. [Website](https://plot.ly).
 - [@pump-io](https://github.com/pump-io) - Social server with an ActivityStreams API. [Website]( http://pump.io).
+- [@SCS-Concordia](https://github.com/SCS-Concordia) - SCS Concordia.
 - [@SerpentAI](https://github.com/SerpentAI) - Python, Machine Learning and Artificial Intelligence => Open Source Libraries.
+- [@SpaceConcordia](https://github.com/spaceconcordia) - Space Concordia [Website](http://spaceconcordia.ca/).
+- [@Shutterstock](http://github.com/shutterstock) [Website](http://bits.shutterstock.com/)
 - [@TransitApp](https://github.com/transitapp) - A commuter helping company. [Website](https://transitapp.com/).
+- [@Unsplash](https://github.com/unsplash) - Photography, curated. Beautiful, free photos brought to you by the most generous community of photographers. [Website](https://unsplash.com/).
 - [@wet-boew](https://github.com/wet-boew) - Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.
 
 ## Users with Open Source projects
