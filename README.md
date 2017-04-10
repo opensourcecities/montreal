@@ -97,6 +97,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [StartUp Open House Event](https://www.startupopenhouse.com/event/montreal-2016-2/)
 - [BuiltInMTL](http://builtinmtl.com/)
 - [BetterMTL](https://bettermtl.github.io/reseau/)
+- [FACIL](https://wiki.facil.qc.ca/view/Informatique_libre_au_Qu%C3%A9bec)
 - [La Maison du Logiciel Libre Project List](https://maisonlogiciellibre.org/projects/index?lang=en_CA)
 - [Notman's Startup Community Map](http://notman.org/)
 - [NodeSchool Montreal's Project List](https://nodeschool.io/montreal/)
