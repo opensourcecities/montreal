@@ -1,0 +1,8 @@
+language: ruby
+rvm:
+  - 2.2
+before_script:
+  - gem install awesome_bot
+script:
+#  - git diff master.. --name-only | grep '.md' | xargs awesome_bot --allow-dupe
+- awesome_bot README.md --allow-dupe --white-list https://github.com/RichardLitt/open-source-montreal/issues/new
