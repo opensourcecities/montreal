@@ -38,9 +38,9 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 
 ## GitHub Organizations (Companies or Projects)
 
-- [@BetterMTL](https://github.com/bettermtl) - Data layered to engage city-wide activities and teams. [Website](http://bettermtl.com).
+- [@BetterMTL](https://github.com/bettermtl) - Data layered to engage city-wide activities and teams. [Website](https://bettermtl.github.io/).
 - [@busbud](https://github.com/busbud) [Website](https://www.busbud.com/).
-- [@ctf](https://github.com/ctf) - McGill Science Computer Taskforce. [Website](http://taskforce.sus.mcgill.ca)
+- [@ctf](https://github.com/ctf) - McGill Science Computer Taskforce. [Website](https://ctf.science.mcgill.ca/)
 - [@e14n](https://github.com/e14n)
 - [@HackMcGill](https://github.com/hackmcgill) - [Website](http://hackmcgill.com/).
 - [@McGill-AML](https://github.com/McGill-AML) - McGill Aerospace Mechatronics Laboratory.
@@ -55,18 +55,18 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@pump-io](https://github.com/pump-io) - Social server with an ActivityStreams API. [Website]( http://pump.io).
 - [@SCS-Concordia](https://github.com/SCS-Concordia) - SCS Concordia.
 - [@SerpentAI](https://github.com/SerpentAI) - Python, Machine Learning and Artificial Intelligence => Open Source Libraries.
-- [@SpaceConcordia](https://github.com/spaceconcordia) - Space Concordia [Website](http://spaceconcordia.ca/).
-- [@Shutterstock](http://github.com/shutterstock) [Website](http://bits.shutterstock.com/)
+- [@SpaceConcordia](https://github.com/spaceconcordia) - Space Concordia [Website](https://spaceconcordia.github.io/).
+- [@Shutterstock](https://github.com/shutterstock) [Website](https://tech.shutterstock.com/)
 - [@TransitApp](https://github.com/transitapp) - A commuter helping company. [Website](https://transitapp.com/).
 - [@Unsplash](https://github.com/unsplash) - Photography, curated. Beautiful, free photos brought to you by the most generous community of photographers. [Website](https://unsplash.com/).
 - [@wet-boew](https://github.com/wet-boew) - Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.
 
 ## Users with Open Source projects
 
-- [@ajmas](https://github.com/ajmas) - [Website](http://terra-azure.org).
+- [@ajmas](https://github.com/ajmas)
 - [@chriddyp](https://github.com/chriddyp)
 - [@fed135](https://github.com/fed135) - I ❤️ Node - - - - - - - - - - - - - - - - - - Curr: Software Eng. @shutterstock Past: EA, Ubisoft, Stolo.
-- [@flovilmart](https://twitter.com/flovilmart) - Dad, Core Contributor on https://github.com/parseplatform/parse-server and @parse-server-modules. Tech Lead @AmpMe.
+- [@flovilmart](https://twitter.com/flovilmart) - Dad, Core Contributor on https://github.com/parse-community/parse-server and @parse-server-modules. Tech Lead @AmpMe.
 - [@jpmckinney](https://github.com/jpmckinney) - Contributions to OpenNorth and Montréal Ouvert
 - [@jvns](https://github.com/jvns) - Organizes [All Girl Hack Night](https://www.meetup.com/Montreal-All-Girl-Hack-Night/) [Website](http://jvns.ca/).
 - [@kamalmarhubi](https://github.com/kamalmarhubi) [Website](http://kamalmarhubi.com/).
@@ -74,10 +74,10 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@macournoyer](https://github.com/macournoyer) - A very friendly code/life hacker from beautiful Montréal, QC.
 - [@maxmx](https://github.com/maxmx) - Dev & Designer maintaining [Bootstrap Stylus](https://github.com/maxmx/bootstrap-stylus)
 - [@nbrochu](https://github.com/nbrochu) - I write open source stuff and release it under @SerpentAI 🐍. Python & JS. I also live stream on [Twitch](https://www.twitch.tv/serpent_ai)
-- [@nicolaskruchten](https://github.com/nicolaskruchten) - Software developer and data scientist; author of [PivotTable.js](http://nicolas.kruchten.com/pivottable).
-- [@pcuci](https://github.com/pcuci) - Health-tech entrepreneur, game ops tech lead, full-stack UXer, community architect. [Website](http://bettermtl.com).
-- [@RichardLitt](https://github.com/RichardLitt) - Full stack JavaScript developer, computational linguist, and community organizer. [Website](https://burntfen.com).
-- [@robroc](http://github.com/robroc) - Data journalist at CBC/Radio-Canada. Organizes [Hacks/Hackers MTL](https://www.meetup.com/hackshackersmontreal/).
+- [@nicolaskruchten](https://github.com/nicolaskruchten) - Software developer and data scientist; author of [PivotTable.js](http://nicolas.kruchten.com/pivottable/).
+- [@pcuci](https://github.com/pcuci) - Health-tech entrepreneur, game ops tech lead, full-stack UXer, community architect. [Website](https://bettermtl.github.io).
+- [@RichardLitt](https://github.com/RichardLitt) - Full stack JavaScript developer, computational linguist, and community organizer. [Website](https://www.burntfen.com).
+- [@robroc](https://github.com/robroc) - Data journalist at CBC/Radio-Canada. Organizes [Hacks/Hackers MTL](https://www.meetup.com/hackshackersmontreal/).
 - [@ruyadorno](https://github.com/ruyadorno) - Software developer and open source contributor. [Website](http://ruyadorno.com).
 - [@samvermette](https://github.com/samvermette) - iOS developer and designer based in Montréal. [Website](http://samvermette.com/)
 - [@sayar](https://github.com/sayar) - Senior Tech Evangelist @MicrosoftDX. [Website](https://ramisayar.com/).
@@ -87,9 +87,9 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 ## Incubators, Schools, and Communities
 
 - [DecodeMTL](https://github.com/DecodeMTL) - Full-stack JavaScript bootcamp in Montreal, Canada. [Website](https://www.decodemtl.com/).
-- [Les Pitonneux](https://github.com/pitonneux) - A skills incubator in Montreal for people learning to code online. [Website](http://pitonneux.com).
+- [Les Pitonneux](https://github.com/pitonneux) - A skills incubator in Montreal for people learning to code online. [Website](http://www.pitonneux.com).
 - [Maison Logiciel Libre](https://github.com/maisonlogiciellibre) - [Website](https://maisonlogiciellibre.org/).
-- [Nodeschool Montreal](https://github.com/nodeschool/montreal) - Montreal NodeSchool chapter. [Website](http://nodeschool.io/montreal/).
+- [Nodeschool Montreal](https://github.com/nodeschool/montreal) - Montreal NodeSchool chapter. [Website](https://nodeschool.io/montreal/).
 - [Notman House (startup community)](https://github.com/maison-notman-house) - Various parts of this publically accessible building are powered via these open-source repositories on github. [Website](http://notman.org)
 
 ## Other lists
