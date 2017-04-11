@@ -29,7 +29,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [macournoyer/tinyrb](https://github.com/macournoyer/tinyrb) - A tiny subset of Ruby with a Lua'esc VM. [Website]( http://code.macournoyer.com/tinyrb/).
 - [MLDB.ai](https://github.com/mldbai) - An open-source database designed for machine learning. [Website](https://mldb.ai/).
 - [nicolaskruchten/pivottable](https://github.com/nicolaskruchten/pivottable/) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. [Website](http://nicolas.kruchten.com/pivottable/).
-- [Parse](https://github.com/parseplatform)
+- [Parse](https://github.com/parse-community)
 - [plotly.js](https://github.com/plotly/plotly.js) - Javascript graphing library
 - [pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API. [Website](http://pump.io/)
 - [Rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs. [Website](http://code.shutterstock.com/rickshaw/).
@@ -66,7 +66,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@ajmas](https://github.com/ajmas)
 - [@chriddyp](https://github.com/chriddyp)
 - [@fed135](https://github.com/fed135) - I ❤️ Node - - - - - - - - - - - - - - - - - - Curr: Software Eng. @shutterstock Past: EA, Ubisoft, Stolo.
-- [@flovilmart](https://twitter.com/flovilmart) - Dad, Core Contributor on https://github.com/parse-community/parse-server and @parse-server-modules. Tech Lead @AmpMe.
+- [@flovilmart](https://twitter.com/flovilmart) - Dad, BDFL on https://github.com/parse-community and https://github.com/parse-server-modules. Tech Lead @AmpMe.
 - [@jpmckinney](https://github.com/jpmckinney) - Contributions to OpenNorth and Montréal Ouvert
 - [@jvns](https://github.com/jvns) - Organizes [All Girl Hack Night](https://www.meetup.com/Montreal-All-Girl-Hack-Night/) [Website](http://jvns.ca/).
 - [@kamalmarhubi](https://github.com/kamalmarhubi) [Website](http://kamalmarhubi.com/).
