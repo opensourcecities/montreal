@@ -49,7 +49,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@McGillX](https://github.com/McGillX) - McGillX: MOOC Initiative at McGill University [Website](http://www.mcgill.ca/tls/projects/mcgillx).
 - [@MeteorMTL](https://github.com/MeteorMTL)
 - [@mldbai](https://github.com/mldbai) [Website](https://mldb.ai/).
-- [@mtlpy](https://github.com/mtlpy) [Website])(http://montrealpython.org/en/).
+- [@mtlpy](https://github.com/mtlpy) [Website](http://montrealpython.org/en/).
 - [@OpenNorth](https://github.com/opennorth/) - Open North creates websites to promote government transparency and public participation. [Website](http://www.opennorth.ca/).
 - [@plotly](https://github.com/plotly) - A data visualization company. [Website](https://plot.ly).
 - [@pump-io](https://github.com/pump-io) - Social server with an ActivityStreams API. [Website]( http://pump.io).
