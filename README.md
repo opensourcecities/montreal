@@ -75,6 +75,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@maxmx](https://github.com/maxmx) - Dev & Designer maintaining [Bootstrap Stylus](https://github.com/maxmx/bootstrap-stylus)
 - [@nbrochu](https://github.com/nbrochu) - I write open source stuff and release it under @SerpentAI 🐍. Python & JS. I also live stream on [Twitch](https://www.twitch.tv/serpent_ai)
 - [@nicolaskruchten](https://github.com/nicolaskruchten) - Software developer and data scientist; author of [PivotTable.js](http://nicolas.kruchten.com/pivottable/).
+- [@ocollet](https://github.com/ocollet) - Bio.
 - [@pcuci](https://github.com/pcuci) - Health-tech entrepreneur, game ops tech lead, full-stack UXer, community architect. [Website](https://bettermtl.github.io).
 - [@RichardLitt](https://github.com/RichardLitt) - Full stack JavaScript developer, computational linguist, and community organizer. [Website](https://www.burntfen.com).
 - [@robroc](https://github.com/robroc) - Data journalist at CBC/Radio-Canada. Organizes [Hacks/Hackers MTL](https://www.meetup.com/hackshackersmontreal/).
