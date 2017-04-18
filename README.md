@@ -2,7 +2,7 @@
 
 > A directory of companies, people, and projects that are Open Source and from Montréal
 
-Join the [**Slack Group**](https://github.com/RichardLitt/open-source-montreal/issues/18)!
+Join the [**Slack Group**](https://opensourcemtl.slack.com/shared_invite/MTcwNDcwMDk1NjgxLTE0OTI1NDk3NzktOTM0YzRhODExYQ)!
 
 ## Background
 
