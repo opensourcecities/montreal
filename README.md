@@ -58,6 +58,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@SpaceConcordia](https://github.com/spaceconcordia) - Space Concordia [Website](https://spaceconcordia.github.io/).
 - [@Shutterstock](https://github.com/shutterstock) [Website](https://tech.shutterstock.com/)
 - [@TransitApp](https://github.com/transitapp) - A commuter helping company. [Website](https://transitapp.com/).
+- [@unitoio](https://github.com/unitoio) - Unito synchronizes your GitHub issues with Asana, Wrike, Jira, Trello, etc. Get the best of each app, work seamlessly from your favorite.
 - [@Unsplash](https://github.com/unsplash) - Photography, curated. Beautiful, free photos brought to you by the most generous community of photographers. [Website](https://unsplash.com/).
 - [@wet-boew](https://github.com/wet-boew) - Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.
 
