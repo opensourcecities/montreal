@@ -28,6 +28,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [macournoyer/thin](https://github.com/macournoyer/thin) - A very fast & simple Ruby web server. [Website](http://code.macournoyer.com/thin/).
 - [macournoyer/tinyrb](https://github.com/macournoyer/tinyrb) - A tiny subset of Ruby with a Lua'esc VM. [Website]( http://code.macournoyer.com/tinyrb/).
 - [MLDB.ai](https://github.com/mldbai) - An open-source database designed for machine learning. [Website](https://mldb.ai/).
+- [monica](https://github.com/monicahq/monica) - Personal Relationship Manager - a CRM to manage your friends and family. [Website](https://monicahq.com).
 - [nicolaskruchten/pivottable](https://github.com/nicolaskruchten/pivottable/) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. [Website](http://nicolas.kruchten.com/pivottable/).
 - [Parse](https://github.com/parse-community)
 - [plotly.js](https://github.com/plotly/plotly.js) - Javascript graphing library
