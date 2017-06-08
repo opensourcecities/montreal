@@ -67,6 +67,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 
 - [@ajmas](https://github.com/ajmas)
 - [@chriddyp](https://github.com/chriddyp)
+- [@djaiss](https://github.com/djaiss) - Founder of @monicahq.
 - [@fed135](https://github.com/fed135) - I ❤️ Node - - - - - - - - - - - - - - - - - - Curr: Software Eng. @shutterstock Past: EA, Ubisoft, Stolo.
 - [@flovilmart](https://twitter.com/flovilmart) - Dad, BDFL on https://github.com/parse-community and https://github.com/parse-server-modules. Tech Lead @AmpMe.
 - [@jpmckinney](https://github.com/jpmckinney) - Contributions to OpenNorth and Montréal Ouvert
