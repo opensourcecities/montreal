@@ -56,6 +56,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@pump-io](https://github.com/pump-io) - Social server with an ActivityStreams API. [Website]( http://pump.io).
 - [@SCS-Concordia](https://github.com/SCS-Concordia) - SCS Concordia.
 - [@SerpentAI](https://github.com/SerpentAI) - Python, Machine Learning and Artificial Intelligence => Open Source Libraries.
+- [@Shopify](https://github.com/shopify)
 - [@SpaceConcordia](https://github.com/spaceconcordia) - Space Concordia [Website](https://spaceconcordia.github.io/).
 - [@Shutterstock](https://github.com/shutterstock) [Website](https://tech.shutterstock.com/)
 - [@TransitApp](https://github.com/transitapp) - A commuter helping company. [Website](https://transitapp.com/).
