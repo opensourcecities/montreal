@@ -62,6 +62,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@TransitApp](https://github.com/transitapp) - A commuter helping company. [Website](https://transitapp.com/).
 - [@unitoio](https://github.com/unitoio) - Unito synchronizes your GitHub issues with Asana, Wrike, Jira, Trello, etc. Get the best of each app, work seamlessly from your favorite.
 - [@Unsplash](https://github.com/unsplash) - Photography, curated. Beautiful, free photos brought to you by the most generous community of photographers. [Website](https://unsplash.com/).
+- [VarCI](https://github.com/varci)
 - [@wet-boew](https://github.com/wet-boew) - Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.
 
 ## Users with Open Source projects
@@ -71,6 +72,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@djaiss](https://github.com/djaiss) - Founder of @monicahq.
 - [@fed135](https://github.com/fed135) - I ❤️ Node - - - - - - - - - - - - - - - - - - Curr: Software Eng. @shutterstock Past: EA, Ubisoft, Stolo.
 - [@flovilmart](https://twitter.com/flovilmart) - Dad, BDFL on https://github.com/parse-community and https://github.com/parse-server-modules. Tech Lead @AmpMe.
+- [@jadb](https://github.com/jadb) - Father. Husband. Co-founder @VarCI. Maintainer @ApiGen. Core @cakephp. Creator @UseMuffin / @gourmet.
 - [@jpmckinney](https://github.com/jpmckinney) - Contributions to OpenNorth and Montréal Ouvert
 - [@jvns](https://github.com/jvns) - Organizes [All Girl Hack Night](https://www.meetup.com/Montreal-All-Girl-Hack-Night/) [Website](http://jvns.ca/).
 - [@kamalmarhubi](https://github.com/kamalmarhubi) [Website](http://kamalmarhubi.com/).
