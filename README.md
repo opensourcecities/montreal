@@ -53,6 +53,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@mtlpy](https://github.com/mtlpy) [Website](http://montrealpython.org/en/).
 - [@OpenNorth](https://github.com/opennorth/) - Open North creates websites to promote government transparency and public participation. [Website](http://www.opennorth.ca/).
 - [@plotly](https://github.com/plotly) - A data visualization company. [Website](https://plot.ly).
+- [@printourhome](https://github.com/PrintOurHome) - Upcoming organisation to design and print real 3D Habitations [Website](http://www.printourhome.com/en/home/).
 - [@pump-io](https://github.com/pump-io) - Social server with an ActivityStreams API. [Website]( http://pump.io).
 - [@SCS-Concordia](https://github.com/SCS-Concordia) - SCS Concordia.
 - [@SerpentAI](https://github.com/SerpentAI) - Python, Machine Learning and Artificial Intelligence => Open Source Libraries.
