@@ -1,0 +1,107 @@
+baseurl = "https://opensourcecities.github.io/montreal/"
+languageCode = "en-us"
+title = "Open Source Cities - Montréal"
+theme = "hugo-creative-theme"
+
+[params]
+    # To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+    name = "Open Source Cities - Montréal"
+    description = "A directory of companies, people, and projects that are Open Source and from Montréal."
+    fqdn = "https://opensourcecities.github.io"
+
+    # The path must be relative to the static folder
+    favicon = "favicon.png"
+
+    # Navigation
+    [params.navigation]
+        brand = "/img/logo-nav.png"
+
+        [[params.navigation.link]]
+            text = "Background"
+            link = "background"
+
+        [[params.navigation.link]]
+            text = "Organizations"
+            link = "organizations"
+
+        [[params.navigation.link]]
+            text = "Projects"
+            link = "projects"
+
+        [[params.navigation.link]]
+            text = "Users"
+            link = "users"
+
+        [[params.navigation.link]]
+            text = "Incubators"
+            link = "incubators"
+
+        [[params.navigation.link]]
+            text = "Other"
+            link = "other"
+
+        [[params.navigation.link]]
+            text = "Contribution"
+            link = "contribution"
+
+        [[params.navigation.link]]
+            text = "Contact"
+            link = "contact"
+
+    # Hero section
+    [params.hero]
+        # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+        slogan     = "Montréal"
+        subtitle   = "A directory of companies, people, and projects that are Open Source and from Montréal."
+        buttonText = "Find out more"
+
+    [params.contribution]
+        guide = "https://github.com/opensourcecities/montreal/blob/master/CONTRIBUTING.md"
+        issue = "https://github.com/opensourcecities/montreal/issues/new"
+
+    # Footer
+    [params.footer]
+        # Conact
+        [[params.footer.contact]]
+            icon = "github"
+            text = "@OpenSourceCities"
+            link = "https://github.com/opensourcecities"
+
+        [[params.footer.contact]]
+            icon = "github"
+            text = "@Montreal"
+            link = "https://github.com/opensourcecities/montreal"
+
+        [[params.footer.contact]]
+            icon = "slack"
+            text = "Join Us!"
+            link = "https://opensourcemtl.slack.com/shared_invite/MTcwNDcwMDk1NjgxLTE0OTI1NDk3NzktOTM0YzRhODExYQ"
+
+        # Other Cities
+        [[params.footer.cities]]
+            text = "Toronto"
+            link = "/toronto"
+
+        [[params.footer.cities]]
+            text = "Vancouver"
+            link = "/vancouver"
+
+        [[params.footer.cities]]
+            text = "Bratislava"
+            link = "/bratislava"
+
+        [[params.footer.cities]]
+            text = "Tokyo"
+            link = "/tokyo"
+
+        [[params.footer.cities]]
+            text = "Seoul"
+            link = "/seoul"
+
+        [[params.footer.cities]]
+            text = "Berlin"
+            link = "/berlin"
+
+    # Google Analytics.
+    googleAnalytics = "UA-XXXXXXXX-1"

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    <head>
+        {{ partial "head.html" . }}
+    </head>
+    <body id="page-top">
+        {{ partial "header/nav.html" . }}
+        {{ partial "header/hero.html" . }}
+
+        {{ partial "background.html" . }}
+        {{ partial "organizations.html" . }}
+        {{ partial "projects.html" . }}
+        {{ partial "users.html" . }}
+        {{ partial "incubators.html" . }}
+        {{ partial "other.html" . }}
+        {{ partial "contribution.html" . }}
+
+        {{ partial "footer/contact.html" . }}
+        {{ partial "footer/js.html" . }}
+    </body>
+</html>

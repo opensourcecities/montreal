@@ -2,7 +2,19 @@
 
 > A directory of companies, people, and projects that are Open Source and from Montréal
 
-Join the [**Slack Group**](https://opensourcemtl.slack.com/shared_invite/MTcwNDcwMDk1NjgxLTE0OTI1NDk3NzktOTM0YzRhODExYQ)!
+Visit our [Website](https://opensourcecities.github.io/montreal) or Join the [**Slack Group**](https://opensourcemtl.slack.com/shared_invite/MTcwNDcwMDk1NjgxLTE0OTI1NDk3NzktOTM0YzRhODExYQ)!
+
+## Table of Contents
+
+- [Background](#background)
+- [Projects](#projects)
+- [GitHub Organizations (Companies or Projects)](#github-organizations-companies-or-projects)
+- [Users with Open Source projects](#users-with-open-source-projects)
+- [Incubators, Schools, and Communities](#incubators-schools-and-communities)
+- [Other lists](#other-lists)
+- [Contribute](#contribute)
+- [Build](#build)
+- [License](#license)
 
 ## Background
 
@@ -113,6 +125,36 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [Rollodeqc.com](https://streaker.rollodeqc.com/) - A live list of GitHub users publicly coding in Montreal (a streak counter for GitHub).
 
 ## Contribute
+
+**Please do!**
+
+- If you know of any resources that aren't here, please read the [contribution guide](https://github.com/opensourcecities/montreal/blob/master/CONTRIBUTING.md), open a PR and add them.
+- If you have any questions or want a feature, please [open an issue](https://github.com/opensourcecities/montreal/issues/new).
+- If you know a friend or two in another cities, please encourage them to contribute to their respective [cities](https://github.com/opensourcecities).
+
+Thank you!
+
+## Build
+
+This site is built with [Hugo](https://gohugo.io/).
+
+- To run the site locally:
+
+```bash
+git clone https://github.com/opensourcecities/montreal
+cd montreal
+hugo server
+```
+
+- To generate the site:
+
+```bash
+git clone https://github.com/opensourcecities/montreal
+cd montreal
+rm -rf public/
+hugo -t hugo-creative-theme
+```
+
 
 Please do! If you know of any resources that aren't here, add them. If you have any questions or want a feature, please [open an issue](https://github.com/RichardLitt/open-source-montreal/issues/new).
 

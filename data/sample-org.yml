@@ -1,0 +1,10 @@
+# name: (required)
+# github: github-account-without-spaces (required)
+# description: (optional)
+# website: (optional)
+# 
+# Delete the commented section before committing
+name: 
+github: 
+description: 
+website: 
