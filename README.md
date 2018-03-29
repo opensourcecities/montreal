@@ -155,9 +155,6 @@ rm -rf public/
 hugo -t hugo-creative-theme
 ```
 
-
-Please do! If you know of any resources that aren't here, add them. If you have any questions or want a feature, please [open an issue](https://github.com/RichardLitt/open-source-montreal/issues/new).
-
 If adding to the list, please keep the items alphabetized. Thank you.
 
 ## License

@@ -1,6 +1,6 @@
 # Contribution Guide
 
-You can add a record using any of the following three methods:
+You can add a record using any of the following three methods. We have a few methods because this list is displayed both as Markdown on GitHub and on our website.
 
 - Complete PR
   - add record in [README](https://github.com/opensourcecities/montreal/blob/master/README.md) AND
@@ -11,7 +11,7 @@ You can add a record using any of the following three methods:
 - Addition Request
   - [Open a new issue](https://github.com/RichardLitt/open-source-montreal/issues/new) and provide information for the record you want to add
 
-> Note that if you want to send a "Partial PR" you need check **Allow edits from maintainers** checkbox while creating the PR, so that we will be able to complete the PR and merge it.
+> Note that if you want to send a "Partial PR" you need to check **Allow edits from maintainers** checkbox while creating the PR, so that we will be able to complete the PR and merge it.
 
 ## Type of Records
 
@@ -23,7 +23,7 @@ You can add a record using any of the following three methods:
 
 ## Organization
 
-Copy the sample file from `data/sample-org.yml` to `data/orgs/<filename>.yml`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recomended to use the name of Github organization's account for `filename`.
+Copy the sample file from `data/sample-org.yml` to `data/orgs/<filename>.yml`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use the name of Github organization's account for `filename`.
 
 data/sample-org.yml
 ```yml
@@ -41,7 +41,7 @@ Note: delete the commented section in the file before committing.
 
 ## User
 
-Copy the sample file from `data/sample-user.yml` to `data/users/<filename>.yml`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recomended to use the name of Github user's account for `filename`.
+Copy the sample file from `data/sample-user.yml` to `data/users/<filename>.yml`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use the name of Github user's account for `filename`.
 
 data/sample-user.yml
 ```yml
@@ -61,7 +61,7 @@ Note: delete the commented section in the file before committing.
 
 ## Project
 
-Copy the sample file from `data/sample-project.yml` to `data/projects/<filename>.yml`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recomended to use `github-account-repository-name` for `filename`.
+Copy the sample file from `data/sample-project.yml` to `data/projects/<filename>.yml`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use `github-account-repository-name` for `filename`.
 
 data/sample-user.yml
 ```yml
