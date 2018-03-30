@@ -11,11 +11,15 @@ theme = "hugo-creative-theme"
     fqdn = "https://opensourcecities.github.io"
 
     # The path must be relative to the static folder
-    favicon = "favicon.png"
+    favicon = "favicon.ico"
 
     # Navigation
     [params.navigation]
         brand = "/img/logo-nav.png"
+
+        [[params.navigation.link]]
+            text = "Home"
+            link = "page-top"
 
         [[params.navigation.link]]
             text = "Background"

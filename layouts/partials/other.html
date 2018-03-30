@@ -10,12 +10,12 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-xs-10 col-xs-push-1 text-center">
+            <div class="col-lg-12 text-center">
                 <p>
                     <ul class="text-left item-listing">
                         {{ range .Site.Data.other }}
                             <li>
-                                {{ .name }}
+                                &#8226; {{ .name }}
 
                                 {{ with .description }}
                                     - {{ . | markdownify }}
