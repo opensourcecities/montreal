@@ -244,14 +244,8 @@ header .header-content .header-content-inner p {
 }
 
 .service-box {
-    margin: 50px auto 0;
+    margin: 20px auto 0;
     max-width: 400px;
-}
-
-@media(min-width:992px) {
-    .service-box {
-        margin: 20px auto 0;
-    }
 }
 
 .service-box p {
@@ -503,12 +497,45 @@ body {
 }
 
 .service-box img {
-    width:90%;
+    width: 50%;
     border: 2px solid #4B4F54;
     border-radius: 50%;
     padding: 3px;
     margin: 10px;
     background: #fff;
+}
+@media (min-width: 410px) {
+    .service-box img {
+        width: 70%;
+    }
+    .service-box p {
+        font-size: 14px;
+    }
+    .service-box h3 {
+        font-size: 22px;
+    }
+}
+@media (min-width: 632px) {
+    .service-box img {
+        width: 80%;
+    }
+    .service-box p {
+        font-size: 15px;
+    }
+    .service-box h3 {
+        font-size: 23px;
+    }
+}
+@media (min-width: 992px) {
+    .service-box img {
+        width:90%;
+    }
+    .service-box p {
+        font-size: 16px;
+    }
+    .service-box h3 {
+        font-size: 24px;
+    }
 }
 
 .sponsor-box img {
@@ -528,37 +555,37 @@ body {
 .portfolio-items {
     display: flex;
     flex-wrap: wrap;
-    margin-left: -10px;
-    margin-top: -10px;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+    margin: 0;
 }
 .portfolio-items .portfolio-item {
     flex: 1 0 200px;
     box-sizing: border-box;
     list-style: none;
     color: #171e42;
-    padding: 10px;
+    padding: 7.5px;
     margin-left: 0;
-    margin-top: 10px;
+    margin-top: 0;
 }
 @media (min-width: 410px) {
     .portfolio-items .portfolio-item {
-        margin-left: 10px;
-        max-width: calc(50% - 10px);
+        max-width: 50%;
     }
 }
 @media (min-width: 768px) {
     .portfolio-items .portfolio-item {
-        max-width: calc(33.33333% - 10px);
+        max-width: 33.33333%;
     }
 }
 @media (min-width: 992px) {
     .portfolio-items .portfolio-item {
-        max-width: calc(25% - 10px);
+        max-width: 25%;
     }
 }
 @media (min-width: 1200px) {
     .portfolio-items .portfolio-item {
-        max-width: calc(20% - 10px);
+        max-width: 20%;
     }
 }
 
@@ -576,7 +603,7 @@ body {
 }
 
 .contact-row .contact-column {
-    padding-left: 10%;
+    padding-left: 15px;
 }
 .contact-row .primary {
     float: left;
