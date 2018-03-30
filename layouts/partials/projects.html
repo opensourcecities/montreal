@@ -10,13 +10,13 @@
     </div>
     <div class="container">
         <div class="row">
-            <div class="col-xs-10 col-xs-push-1 text-center">
+            <div class="col-lg-12 text-center">
                 <p>
                     These projects have been developed mainly in Montréal, or by Montréalers.
                     <ul class="text-left item-listing">
                         {{ range .Site.Data.projects }}
                             <li>
-                                <a href="{{ .link }}">{{ .name }}</a>
+                                &#8226; <a href="{{ .link }}">{{ .name }}</a>
 
                                 {{ with .description }}
                                     - {{ . | markdownify }}
