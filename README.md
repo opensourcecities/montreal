@@ -109,7 +109,6 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 
 - [DecodeMTL](https://github.com/DecodeMTL) - Full-stack JavaScript bootcamp in Montreal, Canada. [Website](https://www.decodemtl.com/).
 - [Les Pitonneux](https://github.com/pitonneux) - A skills incubator in Montreal for people learning to code online. [Website](http://www.pitonneux.com).
-- [Maison Logiciel Libre](https://github.com/maisonlogiciellibre) - [Website](https://maisonlogiciellibre.org/).
 - [Nodeschool Montreal](https://github.com/nodeschool/montreal) - Montreal NodeSchool chapter. [Website](https://nodeschool.io/montreal/).
 - [Notman House (startup community)](https://github.com/maison-notman-house) - Various parts of this publically accessible building are powered via these open-source repositories on github. [Website](http://notman.org)
 
@@ -119,7 +118,6 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [BuiltInMTL](http://builtinmtl.com/)
 - [BetterMTL](https://bettermtl.github.io/reseau/)
 - [FACIL](https://wiki.facil.qc.ca/view/Informatique_libre_au_Qu%C3%A9bec)
-- [La Maison du Logiciel Libre Project List](https://maisonlogiciellibre.org/projects/index?lang=en_CA)
 - [Notman's Startup Community Map](http://notman.org/)
 - [NodeSchool Montreal's Project List](https://nodeschool.io/montreal/)
 - [Rollodeqc.com](https://streaker.rollodeqc.com/) - A live list of GitHub users publicly coding in Montreal (a streak counter for GitHub).
