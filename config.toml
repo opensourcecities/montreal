@@ -46,6 +46,10 @@ theme = "hugo-creative-theme"
             link = "other"
 
         [[params.navigation.link]]
+            text = "Events"
+            link = "events"
+
+        [[params.navigation.link]]
             text = "Contribution"
             link = "contribution"
 

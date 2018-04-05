@@ -24,6 +24,10 @@ hr.light {
     border-color: #fff;
 }
 
+hr.dark {
+    border-color: #222;
+}
+
 a {
     color: #0984a3;
     -webkit-transition: all .35s;
@@ -542,9 +546,7 @@ body {
     width:90%;
 }
 
-.bg-primary a {
-    color:white;
-}
+.bg-primary a, 
 .bg-primary a.btn {
     color:#222;
 }
@@ -685,3 +687,28 @@ body {
 }
 
 
+.event .event-info {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.event .event-info > li {
+    margin-bottom: 10px;
+}
+
+.event-info .info-icon {
+    width: 25px;
+    text-align: center;
+    float: left;
+}
+.event-info .info-data {
+    width: calc(100% - 25px);
+    text-align: left;
+    float: left;
+}
+
+.event-info .info-venue-map, 
+.event-info .info-venue-map  img {
+    width: 100%;
+    display: block;
+}
