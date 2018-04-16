@@ -1,5 +1,7 @@
 # Open Source Montréal
 
+[![Join the chat at https://gitter.im/opensourcemontreal/Lobby](https://badges.gitter.im/opensourcemontreal/Lobby.svg)](https://gitter.im/opensourcemontreal/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > A directory of companies, people, and projects that are Open Source and from Montréal
 
 Visit our [**Website**](https://opensourcecities.github.io/montreal/) or Join the [**Slack Group**](https://opensourcemtl.slack.com/shared_invite/MTcwNDcwMDk1NjgxLTE0OTI1NDk3NzktOTM0YzRhODExYQ)!
