@@ -36,6 +36,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [BadgeFactor](https://github.com/DigitalPygmalion/badge-factor) - Badge Factor is a "glue" plugin which brings together functionalities of BadgeOS, Gravity Forms and Advanced Custom Fields in a coherent, autonomous digital badge issuing and backpacking solution. [Website](http://digitalpygmalion.com/).
 - [broidHQ/integrations](https://github.com/broidHQ/integrations) - Connect your App to Multiple Messaging Channels with the W3C Open standard.
 - [Compactr](https://github.com/compactr) - Serialization protocol.
+- [gnu-social](https://git.gnu.io/gnu/gnu-social) - The free software social networking platform. [Website](https://gnu.io/social/)
 - [jmechner/Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](http://www.jordanmechner.com/backstage/journals/).
 - [Kalm](https://github.com/kalm/kalm.js) - Node socket wrapper and optimizer. [Website](http://kalm.js.org/).
 - [macournoyer/neuralconvo](https://github.com/macournoyer/neuralconvo) - Neural conversational model in Torch.
@@ -49,6 +50,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API. [Website](http://pump.io/)
 - [Rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs. [Website](http://code.shutterstock.com/rickshaw/).
 - [SVProgressHUD](https://github.com/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
+- [Vanilla Forums](https://vanillaforums.com/en/software/) - Cloud-based community forum software. (Not on GitHub).
 - [Wikitravel.org](https://wikitravel.org/en/Main_Page) - Since 2003: the original free, crowdsourced travel guide with 300,000 writer/travelers visiting every day.
 
 ## GitHub Organizations (Companies or Projects)
@@ -74,6 +76,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@Shopify](https://github.com/shopify)
 - [@SpaceConcordia](https://github.com/spaceconcordia) - Space Concordia [Website](https://spaceconcordia.github.io/).
 - [@Shutterstock](https://github.com/shutterstock) [Website](https://tech.shutterstock.com/)
+- [@Subgraph](https://github.com/subgraph) - Subgraph OS: Adversary resistant computing platform [Website](https://subgraph.com/)
 - [@TransitApp](https://github.com/transitapp) - A commuter helping company. [Website](https://transitapp.com/).
 - [@unitoio](https://github.com/unitoio) - Unito synchronizes your GitHub issues with Asana, Wrike, Jira, Trello, etc. Get the best of each app, work seamlessly from your favorite.
 - [@Unsplash](https://github.com/unsplash) - Photography, curated. Beautiful, free photos brought to you by the most generous community of photographers. [Website](https://unsplash.com/).
