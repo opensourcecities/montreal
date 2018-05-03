@@ -6,10 +6,21 @@
     <description>Recent content on Open Source Cities - Montréal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://opensourcecities.github.io/montreal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>OSMTL#2 ipfs.pics &#43; lightning talks!</title>
+      <link>https://opensourcecities.github.io/montreal/events/meetup-may-2018/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/events/meetup-may-2018/</guid>
+      <description>Let&amp;rsquo;s get together along with the group of people already united around https://github.com/opensourcecities/montreal to share some ideas and start interesting open source related discussions :)
+This month we&amp;rsquo;ll have Vincent Cloutier sharing his experience working on ipfs.pics:
+ ipfs.pics is getting reborn! ipfs.pics is an open-source photo sharing system with undeletable pictures (think of it as the anti-snapchat), that became quite large before overwhelming its creators with stars (900 stars on github), memes (russian), and porn (obviously).</description>
+    </item>
     
     <item>
       <title>Let&#39;s get this started!</title>
