@@ -77,7 +77,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@SpaceConcordia](https://github.com/spaceconcordia) - Space Concordia [Website](https://spaceconcordia.github.io/).
 - [@Shutterstock](https://github.com/shutterstock) [Website](https://tech.shutterstock.com/)
 - [@Subgraph](https://github.com/subgraph) - Subgraph OS: Adversary resistant computing platform [Website](https://subgraph.com/)
-- [@TransitApp](https://github.com/transitapp) - A commuter helping company. [Website](https://transitapp.com/).
+- [@TransitApp](https://github.com/transitapp) - A commuter helping company. [Website](https://transit.app/).
 - [@unitoio](https://github.com/unitoio) - Unito synchronizes your GitHub issues with Asana, Wrike, Jira, Trello, etc. Get the best of each app, work seamlessly from your favorite.
 - [@Unsplash](https://github.com/unsplash) - Photography, curated. Beautiful, free photos brought to you by the most generous community of photographers. [Website](https://unsplash.com/).
 - [VarCI](https://github.com/varci)
