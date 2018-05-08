@@ -109,6 +109,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@samvermette](https://github.com/samvermette) - iOS developer and designer based in Montréal. [Website](http://samvermette.com/)
 - [@sayar](https://github.com/sayar) - Senior Tech Evangelist @MicrosoftDX. [Website](https://ramisayar.com/).
 - [@shawnthompson](https://github.com/shawnthompson) - Front end web developer for the Government of Canada.
+- [@shayanb](https://github.com/shayanb) - Blockchain Engineer, PhD student focused on blockchain technology.
 - [@ziad-saab](https://github.com/ziad-saab) - Full-stack developer and teacher at DecodeMTL. [Website](http://www.ziad.cc/).
 
 ## Incubators, Schools, and Communities
