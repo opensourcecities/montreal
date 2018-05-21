@@ -1,7 +1,7 @@
 baseurl = "https://opensourcecities.github.io/montreal/"
 languageCode = "en-us"
 title = "Open Source Cities - Montréal"
-theme = "hugo-creative-theme"
+theme = "opensource-cities"
 
 [params]
     # To provide some metadata for search engines feel free to add a few
@@ -15,7 +15,7 @@ theme = "hugo-creative-theme"
 
     # Navigation
     [params.navigation]
-        brand = "/img/logo-nav.png"
+        brand = "/img/logo.png"
 
         [[params.navigation.link]]
             text = "Home"
