@@ -1,0 +1,3 @@
+[submodule "themes/osc-theme"]
+	path = themes/osc-theme
+	url = https://github.com/opensourcecities/osc-theme

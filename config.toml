@@ -1,7 +1,7 @@
 baseurl = "https://opensourcecities.github.io/montreal/"
 languageCode = "en-us"
 title = "Open Source Cities - Montréal"
-theme = "opensource-cities"
+theme = "osc-theme"
 
 [params]
     # To provide some metadata for search engines feel free to add a few
