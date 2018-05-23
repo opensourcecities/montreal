@@ -1,0 +1,6 @@
++++
+name = "Les Pitonneux"
+github = "pitonneux"
+description = "A skills incubator in Montreal for people learning to code online"
+website = "https://www.pitonneux.org/"
++++

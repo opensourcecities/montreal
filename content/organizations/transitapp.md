@@ -1,0 +1,6 @@
++++
+name = "TransitApp"
+github = "transitapp"
+description = "A commuter helping company."
+website = "https://transit.app/"
++++
