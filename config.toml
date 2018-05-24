@@ -19,43 +19,53 @@ theme = "osc-theme"
 
         [[params.navigation.link]]
             text = "Home"
-            link = "page-top"
+            link = ""
+            anchor = "page-top"
 
         [[params.navigation.link]]
             text = "Background"
-            link = "background"
+            link = "#background"
+            anchor = "background"
 
         [[params.navigation.link]]
             text = "Organizations"
             link = "organizations"
+            anchor = "organizations"
 
         [[params.navigation.link]]
             text = "Projects"
             link = "projects"
+            anchor = "projects"
 
         [[params.navigation.link]]
             text = "Users"
             link = "users"
+            anchor = "users"
 
         [[params.navigation.link]]
             text = "Incubators"
             link = "incubators"
+            anchor = "incubators"
 
         [[params.navigation.link]]
             text = "Other"
             link = "other"
+            anchor = "other"
 
         [[params.navigation.link]]
             text = "Events"
-            link = "events"
+            link = "#events"
+            anchor = "events"
 
         [[params.navigation.link]]
             text = "Contribution"
-            link = "contribution"
+            link = "#contribution"
+            anchor = "contribution"
 
         [[params.navigation.link]]
             text = "Contact"
-            link = "contact"
+            link = "#contact"
+            anchor = "contact"
 
     # Hero section
     [params.hero]
