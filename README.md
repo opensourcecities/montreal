@@ -138,16 +138,18 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - If you have any questions or want a feature, please [open an issue](https://github.com/opensourcecities/montreal/issues/new).
 - If you know a friend or two in another cities, please encourage them to contribute to their respective [cities](https://github.com/opensourcecities).
 
+If adding to the list, please keep the items alphabetized. Thank you.
+
 Thank you!
 
 ## Build
 
-This site is built with [Hugo](https://gohugo.io/).
+This site is built with [Hugo](https://gohugo.io/) and uses an external theme from [https://github.com/opensourcecities/osc-theme](https://github.com/opensourcecities/osc-theme) as submodule.
 
 - To run the site locally:
 
 ```bash
-git clone https://github.com/opensourcecities/montreal
+git clone --recurse-submodules https://github.com/opensourcecities/montreal.git
 cd montreal
 hugo server
 ```
@@ -155,13 +157,11 @@ hugo server
 - To generate the site:
 
 ```bash
-git clone https://github.com/opensourcecities/montreal
+git clone --recurse-submodules https://github.com/opensourcecities/montreal.git
 cd montreal
 rm -rf public/
-hugo -t hugo-creative-theme
+hugo -t osc-theme
 ```
-
-If adding to the list, please keep the items alphabetized. Thank you.
 
 ## License
 
