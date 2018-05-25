@@ -5,17 +5,26 @@ language: ruby
 rvm:
   - 2.2
 
+install:
+  - rm -rf public || exit 0
+
 before_script:
   - gem install awesome_bot
 
-script: |
-  awesome_bot README.md \
-    --allow-dupe \
-    --allow-ssl \
-    --white-list https://github.com/opensourcecities/montreal/issues/new,https://github.com/opensourcecities/montreal.git
+script:
+  - awesome_bot README.md
+      --allow-dupe
+      --allow-ssl
+      --skip-save-results
+      --white-list https://github.com/opensourcecities/montreal/issues/new,https://github.com/opensourcecities/montreal.git
+  - binaries/hugo --theme=osc-theme
+  - echo 'Published at $(date)' > public/README.md
 
 deploy:
-  provider: script
-  script: echo "deploy gh-pages"
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  local_dir: public
+  keep-history: true
   on:
     branch: master
