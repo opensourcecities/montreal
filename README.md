@@ -63,7 +63,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@McGill-AML](https://github.com/McGill-AML) - McGill Aerospace Mechatronics Laboratory.
 - [@McGill-CSB](https://github.com/McGill-CSB) - McGill Computational Structure Biology. [Website](http://csb.cs.mcgill.ca/).
 - [@McGill-Robotics](https://github.com/mcgill-robotics) - Engineering Design Team. [Website](https://mcgillrobotics.com/).
-- [@McGillX](https://github.com/McGillX) - McGillX: MOOC Initiative at McGill University [Website](http://www.mcgill.ca/tls/projects/mcgillx).
+- [@McGillX](https://github.com/McGillX) - McGillX: MOOC Initiative at McGill University [Website](https://www.mcgill.ca/tls/projects/mcgillx).
 - [@MeteorMTL](https://github.com/MeteorMTL)
 - [@mldbai](https://github.com/mldbai) [Website](https://mldb.ai/).
 - [@mtlpy](https://github.com/mtlpy) [Website](http://montrealpython.org/en/).
@@ -128,7 +128,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [Notman's Startup Community Map](http://notman.org/)
 - [NodeSchool Montreal's Project List](https://nodeschool.io/montreal/)
 - [Rollodeqc.com](https://streaker.rollodeqc.com/) - A live list of GitHub users publicly coding in Montreal (a streak counter for GitHub).
-- [Agenda du Libre Montréal](http://agendadulibre.qc.ca/) - An agenda and calendar for Open Source in Montréal.
+- [Agenda du Libre Montréal](https://agendadulibre.qc.ca/) - An agenda and calendar for Open Source in Montréal.
 
 ## Contribute
 
