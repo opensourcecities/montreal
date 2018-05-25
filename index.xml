@@ -6,10 +6,775 @@
     <description>Recent content in Background on Open Source Cities - Montréal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 May 2018 12:34:37 -0400</lastBuildDate>
     
 	<atom:link href="https://opensourcecities.github.io/montreal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/incubators/decodemtl/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/incubators/decodemtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/incubators/maison-notman-house/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/incubators/maison-notman-house/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/incubators/nodeschool-montreal/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/incubators/nodeschool-montreal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/incubators/pitonneux/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/incubators/pitonneux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/ampme/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/ampme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/bettermtl/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/bettermtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/busbud/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/busbud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/ctf/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/ctf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/e14n/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/e14n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/hackmcgill/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/hackmcgill/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/mcgill-aml/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/mcgill-aml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/mcgill-csb/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/mcgill-csb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/mcgill-robotics/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/mcgill-robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/mcgillx/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/mcgillx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/meteormtl/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/meteormtl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/mldbai/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/mldbai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/mtlpy/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/mtlpy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/opennorth/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/opennorth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/parse/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/parse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/plotly/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/plotly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/printourhome/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/printourhome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/pump-io/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/pump-io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/scs-concordia/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/scs-concordia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/serpentai/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/serpentai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/shopify/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/shopify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/shutterstock/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/shutterstock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/spaceconcordia/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/spaceconcordia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/subgraph/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/subgraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/transitapp/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/transitapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/unitoio/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/unitoio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/unsplash/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/unsplash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/varci/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/varci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/organizations/wet-boew/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/wet-boew/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/other/001/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/other/001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/other/002/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/other/002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/other/003/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/other/003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/other/004/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/other/004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/other/006/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/other/006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/other/007/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/other/007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/other/008/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/other/008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/other/009/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/other/009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/broidhq-integrations/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/broidhq-integrations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/compactr-compactr-js/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/compactr-compactr-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/digitalpygmalion-badge-factor/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/digitalpygmalion-badge-factor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/gnu-social/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/gnu-social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/jmechner-prince-of-persia-apple-ii/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/jmechner-prince-of-persia-apple-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/kalm-kalm-js/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/kalm-kalm-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/macournoyer-neuralconvo/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/macournoyer-neuralconvo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/macournoyer-thin/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/macournoyer-thin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/macournoyer-tinyrb/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/macournoyer-tinyrb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/monicahq-monica/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/monicahq-monica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/nicolaskruchten-pivottable/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/nicolaskruchten-pivottable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/plotly-plotly-js/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/plotly-plotly-js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/pump-io-pump-io/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/pump-io-pump-io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/shutterstock-rickshaw/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/shutterstock-rickshaw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/svprogresshud-svprogresshud/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/svprogresshud-svprogresshud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/vanilla-forums/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/vanilla-forums/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/wikitravel-org/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/wikitravel-org/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/ajmas/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/ajmas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/chriddyp/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/chriddyp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/danieljakots/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/danieljakots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/djaiss/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/djaiss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/fed135/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/fed135/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/flovilmart/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/flovilmart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/jadb/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/jadb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/jpmckinney/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/jpmckinney/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/jvns/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/jvns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/kamalmarhubi/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/kamalmarhubi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/khos2ow/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/khos2ow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/macournoyer/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/macournoyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/marcandre/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/marcandre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/marekweb/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/marekweb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/maxmx/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/maxmx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/nbrochu/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/nbrochu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/nicolaskruchten/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/nicolaskruchten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/ocollet/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/ocollet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/pcuci/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/pcuci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/richardlitt/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/richardlitt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/robroc/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/robroc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/ruyadorno/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/ruyadorno/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/samvermette/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/samvermette/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/sayar/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/sayar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/shawnthompson/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/shawnthompson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/shayanb/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/shayanb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/users/ziad-saab/</link>
+      <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/users/ziad-saab/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>OSMTL#2 ipfs.pics &#43; lightning talks!</title>
@@ -30,771 +795,6 @@ This month we&amp;rsquo;ll have Vincent Cloutier sharing his experience working 
       <guid>https://opensourcecities.github.io/montreal/events/meetup-april-2018/</guid>
       <description>Let&amp;rsquo;s get together along with the group of people already united around https://github.com/opensourcecities/montreal to share some ideas and start interesting open source related discussions :)
 We&amp;rsquo;ll have 2 presentations to be announced soon (will update this description as soon as it&amp;rsquo;s confirmed) but the most important thing is to get there and finally meet this amazing group of people and help decide what direction do we want to take with this meetup.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/incubators/decodemtl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/incubators/decodemtl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/incubators/maison-notman-house/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/incubators/maison-notman-house/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/incubators/nodeschool-montreal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/incubators/nodeschool-montreal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/incubators/pitonneux/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/incubators/pitonneux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/ampme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/ampme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/bettermtl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/bettermtl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/busbud/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/busbud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/ctf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/ctf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/e14n/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/e14n/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/hackmcgill/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/hackmcgill/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/mcgill-aml/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/mcgill-aml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/mcgill-csb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/mcgill-csb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/mcgill-robotics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/mcgill-robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/mcgillx/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/mcgillx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/meteormtl/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/meteormtl/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/mldbai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/mldbai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/mtlpy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/mtlpy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/opennorth/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/opennorth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/parse/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/parse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/plotly/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/plotly/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/printourhome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/printourhome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/pump-io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/pump-io/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/scs-concordia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/scs-concordia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/serpentai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/serpentai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/shopify/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/shopify/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/shutterstock/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/shutterstock/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/spaceconcordia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/spaceconcordia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/subgraph/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/subgraph/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/transitapp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/transitapp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/unitoio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/unitoio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/unsplash/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/unsplash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/varci/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/varci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/organizations/wet-boew/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/organizations/wet-boew/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/other/001/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/other/001/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/other/002/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/other/002/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/other/003/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/other/003/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/other/004/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/other/004/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/other/006/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/other/006/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/other/007/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/other/007/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/other/008/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/other/008/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/other/009/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/other/009/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/broidhq-integrations/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/broidhq-integrations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/compactr-compactr-js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/compactr-compactr-js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/digitalpygmalion-badge-factor/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/digitalpygmalion-badge-factor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/gnu-social/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/gnu-social/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/jmechner-prince-of-persia-apple-ii/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/jmechner-prince-of-persia-apple-ii/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/kalm-kalm-js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/kalm-kalm-js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/macournoyer-neuralconvo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/macournoyer-neuralconvo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/macournoyer-thin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/macournoyer-thin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/macournoyer-tinyrb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/macournoyer-tinyrb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/monicahq-monica/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/monicahq-monica/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/nicolaskruchten-pivottable/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/nicolaskruchten-pivottable/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/plotly-plotly-js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/plotly-plotly-js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/pump-io-pump-io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/pump-io-pump-io/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/shutterstock-rickshaw/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/shutterstock-rickshaw/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/svprogresshud-svprogresshud/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/svprogresshud-svprogresshud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/vanilla-forums/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/vanilla-forums/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/projects/wikitravel-org/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/projects/wikitravel-org/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/ajmas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/ajmas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/chriddyp/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/chriddyp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/danieljakots/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/danieljakots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/djaiss/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/djaiss/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/fed135/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/fed135/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/flovilmart/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/flovilmart/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/jadb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/jadb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/jpmckinney/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/jpmckinney/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/jvns/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/jvns/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/kamalmarhubi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/kamalmarhubi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/khos2ow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/khos2ow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/macournoyer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/macournoyer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/marcandre/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/marcandre/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/marekweb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/marekweb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/maxmx/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/maxmx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/nbrochu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/nbrochu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/nicolaskruchten/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/nicolaskruchten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/ocollet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/ocollet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/pcuci/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/pcuci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/richardlitt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/richardlitt/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/robroc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/robroc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/ruyadorno/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/ruyadorno/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/samvermette/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/samvermette/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/sayar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/sayar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/shawnthompson/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/shawnthompson/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/shayanb/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/shayanb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensourcecities.github.io/montreal/users/ziad-saab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensourcecities.github.io/montreal/users/ziad-saab/</guid>
-      <description></description>
     </item>
     
   </channel>

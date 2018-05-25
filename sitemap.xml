@@ -3,6 +3,431 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://opensourcecities.github.io/montreal/incubators/decodemtl/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/incubators/maison-notman-house/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/incubators/nodeschool-montreal/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/incubators/pitonneux/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/ampme/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/bettermtl/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/busbud/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/ctf/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/e14n/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/hackmcgill/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/mcgill-aml/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/mcgill-csb/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/mcgill-robotics/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/mcgillx/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/meteormtl/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/mldbai/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/mtlpy/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/opennorth/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/parse/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/plotly/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/printourhome/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/pump-io/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/scs-concordia/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/serpentai/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/shopify/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/shutterstock/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/spaceconcordia/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/subgraph/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/transitapp/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/unitoio/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/unsplash/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/varci/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/organizations/wet-boew/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/other/001/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/other/002/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/other/003/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/other/004/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/other/006/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/other/007/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/other/008/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/other/009/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/broidhq-integrations/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/compactr-compactr-js/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/digitalpygmalion-badge-factor/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/gnu-social/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/jmechner-prince-of-persia-apple-ii/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/kalm-kalm-js/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/macournoyer-neuralconvo/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/macournoyer-thin/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/macournoyer-tinyrb/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/monicahq-monica/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/nicolaskruchten-pivottable/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/plotly-plotly-js/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/pump-io-pump-io/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/shutterstock-rickshaw/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/svprogresshud-svprogresshud/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/vanilla-forums/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/projects/wikitravel-org/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/ajmas/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/chriddyp/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/danieljakots/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/djaiss/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/fed135/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/flovilmart/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/jadb/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/jpmckinney/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/jvns/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/kamalmarhubi/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/khos2ow/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/macournoyer/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/marcandre/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/marekweb/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/maxmx/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/nbrochu/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/nicolaskruchten/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/ocollet/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/pcuci/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/richardlitt/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/robroc/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/ruyadorno/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/samvermette/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/sayar/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/shawnthompson/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/shayanb/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://opensourcecities.github.io/montreal/users/ziad-saab/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://opensourcecities.github.io/montreal/events/meetup-may-2018/</loc>
     <lastmod>2018-05-14T00:00:00+00:00</lastmod>
   </url>
@@ -13,348 +438,8 @@
   </url>
   
   <url>
-    <loc>https://opensourcecities.github.io/montreal/incubators/decodemtl/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/incubators/maison-notman-house/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/incubators/nodeschool-montreal/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/incubators/pitonneux/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/ampme/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/bettermtl/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/busbud/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/ctf/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/e14n/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/hackmcgill/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/mcgill-aml/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/mcgill-csb/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/mcgill-robotics/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/mcgillx/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/meteormtl/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/mldbai/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/mtlpy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/opennorth/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/parse/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/plotly/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/printourhome/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/pump-io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/scs-concordia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/serpentai/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/shopify/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/shutterstock/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/spaceconcordia/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/subgraph/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/transitapp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/unitoio/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/unsplash/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/varci/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/organizations/wet-boew/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/other/001/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/other/002/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/other/003/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/other/004/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/other/006/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/other/007/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/other/008/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/other/009/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/broidhq-integrations/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/compactr-compactr-js/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/digitalpygmalion-badge-factor/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/gnu-social/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/jmechner-prince-of-persia-apple-ii/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/kalm-kalm-js/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/macournoyer-neuralconvo/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/macournoyer-thin/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/macournoyer-tinyrb/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/monicahq-monica/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/nicolaskruchten-pivottable/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/plotly-plotly-js/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/pump-io-pump-io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/shutterstock-rickshaw/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/svprogresshud-svprogresshud/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/vanilla-forums/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/projects/wikitravel-org/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/ajmas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/chriddyp/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/danieljakots/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/djaiss/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/fed135/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/flovilmart/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/jadb/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/jpmckinney/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/jvns/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/kamalmarhubi/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/khos2ow/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/macournoyer/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/marcandre/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/marekweb/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/maxmx/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/nbrochu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/nicolaskruchten/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/ocollet/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/pcuci/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/richardlitt/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/robroc/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/ruyadorno/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/samvermette/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/sayar/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/shawnthompson/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/shayanb/</loc>
-  </url>
-  
-  <url>
-    <loc>https://opensourcecities.github.io/montreal/users/ziad-saab/</loc>
-  </url>
-  
-  <url>
     <loc>https://opensourcecities.github.io/montreal/</loc>
-    <lastmod>2018-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
   </url>
   
   <url>
@@ -370,18 +455,22 @@
   
   <url>
     <loc>https://opensourcecities.github.io/montreal/organizations/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://opensourcecities.github.io/montreal/incubators/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://opensourcecities.github.io/montreal/other/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
   </url>
   
   <url>
     <loc>https://opensourcecities.github.io/montreal/projects/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
   </url>
   
   <url>
@@ -391,6 +480,7 @@
   
   <url>
     <loc>https://opensourcecities.github.io/montreal/users/</loc>
+    <lastmod>2018-05-25T12:34:37-04:00</lastmod>
   </url>
   
 </urlset>
