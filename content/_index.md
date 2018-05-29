@@ -1,7 +1,3 @@
-+++
-title = "Background"
-+++
-
 Why is there a list combining a licensing model with a geographical location?
 
 Generally, I've found that the Open Source community is just that - a community. People who contribute to open source code often do so
