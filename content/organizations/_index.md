@@ -1,4 +1,3 @@
-+++
-title = "GitHub Organizations (Companies or Projects)"
-slug = "organizations"
-+++
+---
+title: "GitHub Organizations (Companies or Projects)"
+---

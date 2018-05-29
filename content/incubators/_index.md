@@ -1,4 +1,3 @@
-+++
-title = "Incubators, Schools, and Communities"
-slug = "incubators"
-+++
+---
+title: "Incubators, Schools, and Communities"
+---
