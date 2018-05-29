@@ -8,43 +8,43 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 25 May 2018 12:34:37 -0400</lastBuildDate>
     
-	<atom:link href="https://opensourcecities.github.io/montreal/incubators/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://opensourcecities.github.io/montreal/incubators/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>DecodeMTL</title>
       <link>https://opensourcecities.github.io/montreal/incubators/decodemtl/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/incubators/decodemtl/</guid>
-      <description></description>
+      <description> Full-stack JavaScript bootcamp in Montreal, Canada</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Notman House (startup community)</title>
       <link>https://opensourcecities.github.io/montreal/incubators/maison-notman-house/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/incubators/maison-notman-house/</guid>
-      <description></description>
+      <description>Various parts of this publically accessible building are powered via these open-source repositories on github</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Nodeschool Montreal</title>
       <link>https://opensourcecities.github.io/montreal/incubators/nodeschool-montreal/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/incubators/nodeschool-montreal/</guid>
-      <description></description>
+      <description>Montreal NodeSchool chapter</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Les Pitonneux</title>
       <link>https://opensourcecities.github.io/montreal/incubators/pitonneux/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/incubators/pitonneux/</guid>
-      <description></description>
+      <description>A skills incubator in Montreal for people learning to code online</description>
     </item>
     
   </channel>

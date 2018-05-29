@@ -8,160 +8,160 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 25 May 2018 12:34:37 -0400</lastBuildDate>
     
-	<atom:link href="https://opensourcecities.github.io/montreal/projects/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://opensourcecities.github.io/montreal/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>broidHQ/integrations</title>
       <link>https://opensourcecities.github.io/montreal/projects/broidhq-integrations/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/broidhq-integrations/</guid>
-      <description></description>
+      <description>Connect your App to Multiple Messaging Channels with the W3C Open standard.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Compactr.js</title>
       <link>https://opensourcecities.github.io/montreal/projects/compactr-compactr-js/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/compactr-compactr-js/</guid>
-      <description></description>
+      <description>Serialization protocol.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>BadgeFactor</title>
       <link>https://opensourcecities.github.io/montreal/projects/digitalpygmalion-badge-factor/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/digitalpygmalion-badge-factor/</guid>
-      <description></description>
+      <description>Badge Factor is a &#34;glue&#34; plugin which brings together functionalities of BadgeOS, Gravity Forms and Advanced Custom Fields in a coherent, autonomous digital badge issuing and backpacking solution.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>gnu-social</title>
       <link>https://opensourcecities.github.io/montreal/projects/gnu-social/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/gnu-social/</guid>
-      <description></description>
+      <description>Free software social networking platform</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Prince of Persia Apple II</title>
       <link>https://opensourcecities.github.io/montreal/projects/jmechner-prince-of-persia-apple-ii/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/jmechner-prince-of-persia-apple-ii/</guid>
-      <description></description>
+      <description>A running-jumping-swordfighting game I made on the Apple II from 1985-89.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Kalm.js</title>
       <link>https://opensourcecities.github.io/montreal/projects/kalm-kalm-js/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/kalm-kalm-js/</guid>
-      <description></description>
+      <description>Node socket wrapper and optimizer.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>macournoyer/neuralconvo</title>
       <link>https://opensourcecities.github.io/montreal/projects/macournoyer-neuralconvo/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/macournoyer-neuralconvo/</guid>
-      <description></description>
+      <description>Neural conversational model in Torch.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>macournoyer/thin</title>
       <link>https://opensourcecities.github.io/montreal/projects/macournoyer-thin/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/macournoyer-thin/</guid>
-      <description></description>
+      <description>A very fast &amp; simple Ruby web server.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>macournoyer/tinyrb</title>
       <link>https://opensourcecities.github.io/montreal/projects/macournoyer-tinyrb/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/macournoyer-tinyrb/</guid>
-      <description></description>
+      <description>A tiny subset of Ruby with a Lua&#39;esc VM.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Monica</title>
       <link>https://opensourcecities.github.io/montreal/projects/monicahq-monica/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/monicahq-monica/</guid>
-      <description></description>
+      <description>Personal Relationship Manager - a CRM to manage your friends and family.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>PivotTable.js</title>
       <link>https://opensourcecities.github.io/montreal/projects/nicolaskruchten-pivottable/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/nicolaskruchten-pivottable/</guid>
-      <description></description>
+      <description>Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag&#39;n&#39;drop.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>plotly.js</title>
       <link>https://opensourcecities.github.io/montreal/projects/plotly-plotly-js/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/plotly-plotly-js/</guid>
-      <description></description>
+      <description>Javascript graphing library</description>
     </item>
     
     <item>
-      <title></title>
+      <title>pump.io</title>
       <link>https://opensourcecities.github.io/montreal/projects/pump-io-pump-io/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/pump-io-pump-io/</guid>
-      <description></description>
+      <description>Social server with an ActivityStreams API.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Rickshaw</title>
       <link>https://opensourcecities.github.io/montreal/projects/shutterstock-rickshaw/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/shutterstock-rickshaw/</guid>
-      <description></description>
+      <description>JavaScript toolkit for creating interactive real-time graphs.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>SVProgressHUD</title>
       <link>https://opensourcecities.github.io/montreal/projects/svprogresshud-svprogresshud/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/svprogresshud-svprogresshud/</guid>
-      <description></description>
+      <description>A clean and lightweight progress HUD for your iOS and tvOS app.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Vanilla vanillaforums</title>
       <link>https://opensourcecities.github.io/montreal/projects/vanilla-forums/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/vanilla-forums/</guid>
-      <description></description>
+      <description>Cloud-based community forum software. (Not on GitHub).</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Wikitravel.org</title>
       <link>https://opensourcecities.github.io/montreal/projects/wikitravel-org/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/wikitravel-org/</guid>
-      <description></description>
+      <description>Since 2003: the original free, crowdsourced travel guide with 300,000 writer/travelers visiting every day.</description>
     </item>
     
   </channel>

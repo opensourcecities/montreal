@@ -8,11 +8,11 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 25 May 2018 12:34:37 -0400</lastBuildDate>
     
-	<atom:link href="https://opensourcecities.github.io/montreal/other/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://opensourcecities.github.io/montreal/other/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>StartUp Open House Event</title>
       <link>https://opensourcecities.github.io/montreal/other/001/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>BuiltInMTL</title>
       <link>https://opensourcecities.github.io/montreal/other/002/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -30,7 +30,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>BetterMTL</title>
       <link>https://opensourcecities.github.io/montreal/other/003/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -39,7 +39,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>FACIL</title>
       <link>https://opensourcecities.github.io/montreal/other/004/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Notman&#39;s Startup Community Map</title>
       <link>https://opensourcecities.github.io/montreal/other/006/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -57,7 +57,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>NodeSchool Montreal&#39;s Project List</title>
       <link>https://opensourcecities.github.io/montreal/other/007/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -66,21 +66,21 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Rollodeqc.com</title>
       <link>https://opensourcecities.github.io/montreal/other/008/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/other/008/</guid>
-      <description></description>
+      <description>A live list of GitHub users publicly coding in Montreal (a streak counter for GitHub)</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Agenda du Libre Montréal</title>
       <link>https://opensourcecities.github.io/montreal/other/009/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/other/009/</guid>
-      <description></description>
+      <description>An agenda and calendar for Open Source in Montréal.</description>
     </item>
     
   </channel>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://opensourcecities.github.io/montreal/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://opensourcecities.github.io/montreal/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -1,72 +1,72 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Background on Open Source Cities - Montréal</title>
+    <title>Open Source Cities - Montréal</title>
     <link>https://opensourcecities.github.io/montreal/</link>
-    <description>Recent content in Background on Open Source Cities - Montréal</description>
+    <description>Recent content on Open Source Cities - Montréal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 25 May 2018 12:34:37 -0400</lastBuildDate>
     
-	<atom:link href="https://opensourcecities.github.io/montreal/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://opensourcecities.github.io/montreal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>DecodeMTL</title>
       <link>https://opensourcecities.github.io/montreal/incubators/decodemtl/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/incubators/decodemtl/</guid>
-      <description></description>
+      <description> Full-stack JavaScript bootcamp in Montreal, Canada</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Notman House (startup community)</title>
       <link>https://opensourcecities.github.io/montreal/incubators/maison-notman-house/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/incubators/maison-notman-house/</guid>
-      <description></description>
+      <description>Various parts of this publically accessible building are powered via these open-source repositories on github</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Nodeschool Montreal</title>
       <link>https://opensourcecities.github.io/montreal/incubators/nodeschool-montreal/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/incubators/nodeschool-montreal/</guid>
-      <description></description>
+      <description>Montreal NodeSchool chapter</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Les Pitonneux</title>
       <link>https://opensourcecities.github.io/montreal/incubators/pitonneux/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/incubators/pitonneux/</guid>
-      <description></description>
+      <description>A skills incubator in Montreal for people learning to code online</description>
     </item>
     
     <item>
-      <title></title>
+      <title>AmpMe</title>
       <link>https://opensourcecities.github.io/montreal/organizations/ampme/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/ampme/</guid>
-      <description></description>
+      <description>Sync your phone with friends to create the world&#39;s most portable sound system.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>BetterMTL</title>
       <link>https://opensourcecities.github.io/montreal/organizations/bettermtl/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/bettermtl/</guid>
-      <description></description>
+      <description>Data layered to engage city-wide activities and teams.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>busbud</title>
       <link>https://opensourcecities.github.io/montreal/organizations/busbud/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -75,16 +75,16 @@
     </item>
     
     <item>
-      <title></title>
+      <title>ctf</title>
       <link>https://opensourcecities.github.io/montreal/organizations/ctf/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/ctf/</guid>
-      <description></description>
+      <description>McGill Science Computer Taskforce.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>e14n</title>
       <link>https://opensourcecities.github.io/montreal/organizations/e14n/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -93,7 +93,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>HackMcGill</title>
       <link>https://opensourcecities.github.io/montreal/organizations/hackmcgill/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -102,43 +102,43 @@
     </item>
     
     <item>
-      <title></title>
+      <title>McGill-AML</title>
       <link>https://opensourcecities.github.io/montreal/organizations/mcgill-aml/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/mcgill-aml/</guid>
-      <description></description>
+      <description>McGill Aerospace Mechatronics Laboratory.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>McGill-CSB</title>
       <link>https://opensourcecities.github.io/montreal/organizations/mcgill-csb/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/mcgill-csb/</guid>
-      <description></description>
+      <description>McGill Computational Structure Biology.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>McGill-Robotics</title>
       <link>https://opensourcecities.github.io/montreal/organizations/mcgill-robotics/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/mcgill-robotics/</guid>
-      <description></description>
+      <description>Engineering Design Team.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>McGillX</title>
       <link>https://opensourcecities.github.io/montreal/organizations/mcgillx/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/mcgillx/</guid>
-      <description></description>
+      <description>McGillX: MOOC Initiative at McGill University.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>MeteorMTL</title>
       <link>https://opensourcecities.github.io/montreal/organizations/meteormtl/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -147,16 +147,16 @@
     </item>
     
     <item>
-      <title></title>
+      <title>MLDB.ai</title>
       <link>https://opensourcecities.github.io/montreal/organizations/mldbai/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/mldbai/</guid>
-      <description></description>
+      <description>An open-source database designed for machine learning.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>mtlpy</title>
       <link>https://opensourcecities.github.io/montreal/organizations/mtlpy/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -165,16 +165,16 @@
     </item>
     
     <item>
-      <title></title>
+      <title>OpenNorth</title>
       <link>https://opensourcecities.github.io/montreal/organizations/opennorth/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/opennorth/</guid>
-      <description></description>
+      <description>Open North creates websites to promote government transparency and public participation.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Parse</title>
       <link>https://opensourcecities.github.io/montreal/organizations/parse/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -183,52 +183,52 @@
     </item>
     
     <item>
-      <title></title>
+      <title>plotly</title>
       <link>https://opensourcecities.github.io/montreal/organizations/plotly/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/plotly/</guid>
-      <description></description>
+      <description>A data visualization company.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>printourhome</title>
       <link>https://opensourcecities.github.io/montreal/organizations/printourhome/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/printourhome/</guid>
-      <description></description>
+      <description>Upcoming organisation to design and print real 3D Habitations</description>
     </item>
     
     <item>
-      <title></title>
+      <title>pump-io</title>
       <link>https://opensourcecities.github.io/montreal/organizations/pump-io/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/pump-io/</guid>
-      <description></description>
+      <description>Social server with an ActivityStreams API.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>SCS-Concordia</title>
       <link>https://opensourcecities.github.io/montreal/organizations/scs-concordia/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/scs-concordia/</guid>
-      <description></description>
+      <description>SCS Concordia.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>SerpentAI</title>
       <link>https://opensourcecities.github.io/montreal/organizations/serpentai/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/serpentai/</guid>
-      <description></description>
+      <description>Python, Machine Learning and Artificial Intelligence =&gt; Open Source Libraries.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Shopify</title>
       <link>https://opensourcecities.github.io/montreal/organizations/shopify/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -237,7 +237,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Shutterstock</title>
       <link>https://opensourcecities.github.io/montreal/organizations/shutterstock/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -246,52 +246,52 @@
     </item>
     
     <item>
-      <title></title>
+      <title>SpaceConcordia</title>
       <link>https://opensourcecities.github.io/montreal/organizations/spaceconcordia/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/spaceconcordia/</guid>
-      <description></description>
+      <description>Space Concordia</description>
     </item>
     
     <item>
-      <title></title>
+      <title>subgraph</title>
       <link>https://opensourcecities.github.io/montreal/organizations/subgraph/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/subgraph/</guid>
-      <description></description>
+      <description>Subgraph OS: Adversary resistant computing platform</description>
     </item>
     
     <item>
-      <title></title>
+      <title>TransitApp</title>
       <link>https://opensourcecities.github.io/montreal/organizations/transitapp/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/transitapp/</guid>
-      <description></description>
+      <description>A commuter helping company.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>unitoio</title>
       <link>https://opensourcecities.github.io/montreal/organizations/unitoio/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/unitoio/</guid>
-      <description></description>
+      <description>Unito synchronizes your GitHub issues with Asana, Wrike, Jira, Trello, etc. Get the best of each app, work seamlessly from your favorite.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Unsplash</title>
       <link>https://opensourcecities.github.io/montreal/organizations/unsplash/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/unsplash/</guid>
-      <description></description>
+      <description>Photography, curated. Beautiful, free photos brought to you by the most generous community of photographers.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>VarCI</title>
       <link>https://opensourcecities.github.io/montreal/organizations/varci/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -300,16 +300,16 @@
     </item>
     
     <item>
-      <title></title>
+      <title>wet-boew</title>
       <link>https://opensourcecities.github.io/montreal/organizations/wet-boew/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/wet-boew/</guid>
-      <description></description>
+      <description>Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>StartUp Open House Event</title>
       <link>https://opensourcecities.github.io/montreal/other/001/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -318,7 +318,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>BuiltInMTL</title>
       <link>https://opensourcecities.github.io/montreal/other/002/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -327,7 +327,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>BetterMTL</title>
       <link>https://opensourcecities.github.io/montreal/other/003/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -336,7 +336,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>FACIL</title>
       <link>https://opensourcecities.github.io/montreal/other/004/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -345,7 +345,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Notman&#39;s Startup Community Map</title>
       <link>https://opensourcecities.github.io/montreal/other/006/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -354,7 +354,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>NodeSchool Montreal&#39;s Project List</title>
       <link>https://opensourcecities.github.io/montreal/other/007/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -363,178 +363,178 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Rollodeqc.com</title>
       <link>https://opensourcecities.github.io/montreal/other/008/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/other/008/</guid>
-      <description></description>
+      <description>A live list of GitHub users publicly coding in Montreal (a streak counter for GitHub)</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Agenda du Libre Montréal</title>
       <link>https://opensourcecities.github.io/montreal/other/009/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/other/009/</guid>
-      <description></description>
+      <description>An agenda and calendar for Open Source in Montréal.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>broidHQ/integrations</title>
       <link>https://opensourcecities.github.io/montreal/projects/broidhq-integrations/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/broidhq-integrations/</guid>
-      <description></description>
+      <description>Connect your App to Multiple Messaging Channels with the W3C Open standard.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Compactr.js</title>
       <link>https://opensourcecities.github.io/montreal/projects/compactr-compactr-js/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/compactr-compactr-js/</guid>
-      <description></description>
+      <description>Serialization protocol.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>BadgeFactor</title>
       <link>https://opensourcecities.github.io/montreal/projects/digitalpygmalion-badge-factor/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/digitalpygmalion-badge-factor/</guid>
-      <description></description>
+      <description>Badge Factor is a &#34;glue&#34; plugin which brings together functionalities of BadgeOS, Gravity Forms and Advanced Custom Fields in a coherent, autonomous digital badge issuing and backpacking solution.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>gnu-social</title>
       <link>https://opensourcecities.github.io/montreal/projects/gnu-social/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/gnu-social/</guid>
-      <description></description>
+      <description>Free software social networking platform</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Prince of Persia Apple II</title>
       <link>https://opensourcecities.github.io/montreal/projects/jmechner-prince-of-persia-apple-ii/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/jmechner-prince-of-persia-apple-ii/</guid>
-      <description></description>
+      <description>A running-jumping-swordfighting game I made on the Apple II from 1985-89.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Kalm.js</title>
       <link>https://opensourcecities.github.io/montreal/projects/kalm-kalm-js/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/kalm-kalm-js/</guid>
-      <description></description>
+      <description>Node socket wrapper and optimizer.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>macournoyer/neuralconvo</title>
       <link>https://opensourcecities.github.io/montreal/projects/macournoyer-neuralconvo/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/macournoyer-neuralconvo/</guid>
-      <description></description>
+      <description>Neural conversational model in Torch.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>macournoyer/thin</title>
       <link>https://opensourcecities.github.io/montreal/projects/macournoyer-thin/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/macournoyer-thin/</guid>
-      <description></description>
+      <description>A very fast &amp; simple Ruby web server.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>macournoyer/tinyrb</title>
       <link>https://opensourcecities.github.io/montreal/projects/macournoyer-tinyrb/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/macournoyer-tinyrb/</guid>
-      <description></description>
+      <description>A tiny subset of Ruby with a Lua&#39;esc VM.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Monica</title>
       <link>https://opensourcecities.github.io/montreal/projects/monicahq-monica/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/monicahq-monica/</guid>
-      <description></description>
+      <description>Personal Relationship Manager - a CRM to manage your friends and family.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>PivotTable.js</title>
       <link>https://opensourcecities.github.io/montreal/projects/nicolaskruchten-pivottable/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/nicolaskruchten-pivottable/</guid>
-      <description></description>
+      <description>Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag&#39;n&#39;drop.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>plotly.js</title>
       <link>https://opensourcecities.github.io/montreal/projects/plotly-plotly-js/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/plotly-plotly-js/</guid>
-      <description></description>
+      <description>Javascript graphing library</description>
     </item>
     
     <item>
-      <title></title>
+      <title>pump.io</title>
       <link>https://opensourcecities.github.io/montreal/projects/pump-io-pump-io/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/pump-io-pump-io/</guid>
-      <description></description>
+      <description>Social server with an ActivityStreams API.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Rickshaw</title>
       <link>https://opensourcecities.github.io/montreal/projects/shutterstock-rickshaw/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/shutterstock-rickshaw/</guid>
-      <description></description>
+      <description>JavaScript toolkit for creating interactive real-time graphs.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>SVProgressHUD</title>
       <link>https://opensourcecities.github.io/montreal/projects/svprogresshud-svprogresshud/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/svprogresshud-svprogresshud/</guid>
-      <description></description>
+      <description>A clean and lightweight progress HUD for your iOS and tvOS app.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Vanilla vanillaforums</title>
       <link>https://opensourcecities.github.io/montreal/projects/vanilla-forums/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/vanilla-forums/</guid>
-      <description></description>
+      <description>Cloud-based community forum software. (Not on GitHub).</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Wikitravel.org</title>
       <link>https://opensourcecities.github.io/montreal/projects/wikitravel-org/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/projects/wikitravel-org/</guid>
-      <description></description>
+      <description>Since 2003: the original free, crowdsourced travel guide with 300,000 writer/travelers visiting every day.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>ajmas</title>
       <link>https://opensourcecities.github.io/montreal/users/ajmas/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -543,7 +543,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>chriddyp</title>
       <link>https://opensourcecities.github.io/montreal/users/chriddyp/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -552,7 +552,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>DanielJakots</title>
       <link>https://opensourcecities.github.io/montreal/users/danieljakots/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -561,7 +561,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>djaiss</title>
       <link>https://opensourcecities.github.io/montreal/users/djaiss/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -570,7 +570,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>fed135</title>
       <link>https://opensourcecities.github.io/montreal/users/fed135/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -579,7 +579,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>flovilmart</title>
       <link>https://opensourcecities.github.io/montreal/users/flovilmart/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -588,7 +588,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>jadb</title>
       <link>https://opensourcecities.github.io/montreal/users/jadb/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -597,7 +597,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>jpmckinney</title>
       <link>https://opensourcecities.github.io/montreal/users/jpmckinney/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -606,7 +606,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>jvns</title>
       <link>https://opensourcecities.github.io/montreal/users/jvns/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -615,7 +615,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>kamalmarhubi</title>
       <link>https://opensourcecities.github.io/montreal/users/kamalmarhubi/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -624,7 +624,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Khosrow</title>
       <link>https://opensourcecities.github.io/montreal/users/khos2ow/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -633,7 +633,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>macournoyer</title>
       <link>https://opensourcecities.github.io/montreal/users/macournoyer/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -642,7 +642,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>markandre</title>
       <link>https://opensourcecities.github.io/montreal/users/marcandre/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -651,7 +651,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Marek</title>
       <link>https://opensourcecities.github.io/montreal/users/marekweb/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -660,7 +660,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>maxmx</title>
       <link>https://opensourcecities.github.io/montreal/users/maxmx/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -669,7 +669,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>nbrochu</title>
       <link>https://opensourcecities.github.io/montreal/users/nbrochu/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -678,7 +678,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>nicolaskruchten</title>
       <link>https://opensourcecities.github.io/montreal/users/nicolaskruchten/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -687,7 +687,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>ocollet</title>
       <link>https://opensourcecities.github.io/montreal/users/ocollet/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -696,7 +696,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>pcuci</title>
       <link>https://opensourcecities.github.io/montreal/users/pcuci/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -705,7 +705,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>RichardLitt</title>
       <link>https://opensourcecities.github.io/montreal/users/richardlitt/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -714,7 +714,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>robroc</title>
       <link>https://opensourcecities.github.io/montreal/users/robroc/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -723,7 +723,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>ruyadorno</title>
       <link>https://opensourcecities.github.io/montreal/users/ruyadorno/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -732,7 +732,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>samvermette</title>
       <link>https://opensourcecities.github.io/montreal/users/samvermette/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -741,7 +741,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>sayar</title>
       <link>https://opensourcecities.github.io/montreal/users/sayar/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -750,7 +750,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>shawnthompson</title>
       <link>https://opensourcecities.github.io/montreal/users/shawnthompson/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -759,7 +759,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Shayan Eskandari</title>
       <link>https://opensourcecities.github.io/montreal/users/shayanb/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -768,7 +768,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>ziad-saab</title>
       <link>https://opensourcecities.github.io/montreal/users/ziad-saab/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -777,7 +777,7 @@
     </item>
     
     <item>
-      <title>OSMTL#2 ipfs.pics &#43; lightning talks!</title>
+      <title></title>
       <link>https://opensourcecities.github.io/montreal/events/meetup-may-2018/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
@@ -788,7 +788,7 @@ This month we&amp;rsquo;ll have Vincent Cloutier sharing his experience working 
     </item>
     
     <item>
-      <title>Let&#39;s get this started!</title>
+      <title></title>
       <link>https://opensourcecities.github.io/montreal/events/meetup-april-2018/</link>
       <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
       

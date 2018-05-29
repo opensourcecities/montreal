@@ -8,29 +8,29 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 25 May 2018 12:34:37 -0400</lastBuildDate>
     
-	<atom:link href="https://opensourcecities.github.io/montreal/organizations/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://opensourcecities.github.io/montreal/organizations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
+      <title>AmpMe</title>
       <link>https://opensourcecities.github.io/montreal/organizations/ampme/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/ampme/</guid>
-      <description></description>
+      <description>Sync your phone with friends to create the world&#39;s most portable sound system.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>BetterMTL</title>
       <link>https://opensourcecities.github.io/montreal/organizations/bettermtl/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/bettermtl/</guid>
-      <description></description>
+      <description>Data layered to engage city-wide activities and teams.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>busbud</title>
       <link>https://opensourcecities.github.io/montreal/organizations/busbud/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -39,16 +39,16 @@
     </item>
     
     <item>
-      <title></title>
+      <title>ctf</title>
       <link>https://opensourcecities.github.io/montreal/organizations/ctf/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/ctf/</guid>
-      <description></description>
+      <description>McGill Science Computer Taskforce.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>e14n</title>
       <link>https://opensourcecities.github.io/montreal/organizations/e14n/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -57,7 +57,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>HackMcGill</title>
       <link>https://opensourcecities.github.io/montreal/organizations/hackmcgill/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -66,43 +66,43 @@
     </item>
     
     <item>
-      <title></title>
+      <title>McGill-AML</title>
       <link>https://opensourcecities.github.io/montreal/organizations/mcgill-aml/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/mcgill-aml/</guid>
-      <description></description>
+      <description>McGill Aerospace Mechatronics Laboratory.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>McGill-CSB</title>
       <link>https://opensourcecities.github.io/montreal/organizations/mcgill-csb/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/mcgill-csb/</guid>
-      <description></description>
+      <description>McGill Computational Structure Biology.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>McGill-Robotics</title>
       <link>https://opensourcecities.github.io/montreal/organizations/mcgill-robotics/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/mcgill-robotics/</guid>
-      <description></description>
+      <description>Engineering Design Team.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>McGillX</title>
       <link>https://opensourcecities.github.io/montreal/organizations/mcgillx/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/mcgillx/</guid>
-      <description></description>
+      <description>McGillX: MOOC Initiative at McGill University.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>MeteorMTL</title>
       <link>https://opensourcecities.github.io/montreal/organizations/meteormtl/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -111,16 +111,16 @@
     </item>
     
     <item>
-      <title></title>
+      <title>MLDB.ai</title>
       <link>https://opensourcecities.github.io/montreal/organizations/mldbai/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/mldbai/</guid>
-      <description></description>
+      <description>An open-source database designed for machine learning.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>mtlpy</title>
       <link>https://opensourcecities.github.io/montreal/organizations/mtlpy/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -129,16 +129,16 @@
     </item>
     
     <item>
-      <title></title>
+      <title>OpenNorth</title>
       <link>https://opensourcecities.github.io/montreal/organizations/opennorth/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/opennorth/</guid>
-      <description></description>
+      <description>Open North creates websites to promote government transparency and public participation.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Parse</title>
       <link>https://opensourcecities.github.io/montreal/organizations/parse/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -147,52 +147,52 @@
     </item>
     
     <item>
-      <title></title>
+      <title>plotly</title>
       <link>https://opensourcecities.github.io/montreal/organizations/plotly/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/plotly/</guid>
-      <description></description>
+      <description>A data visualization company.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>printourhome</title>
       <link>https://opensourcecities.github.io/montreal/organizations/printourhome/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/printourhome/</guid>
-      <description></description>
+      <description>Upcoming organisation to design and print real 3D Habitations</description>
     </item>
     
     <item>
-      <title></title>
+      <title>pump-io</title>
       <link>https://opensourcecities.github.io/montreal/organizations/pump-io/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/pump-io/</guid>
-      <description></description>
+      <description>Social server with an ActivityStreams API.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>SCS-Concordia</title>
       <link>https://opensourcecities.github.io/montreal/organizations/scs-concordia/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/scs-concordia/</guid>
-      <description></description>
+      <description>SCS Concordia.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>SerpentAI</title>
       <link>https://opensourcecities.github.io/montreal/organizations/serpentai/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/serpentai/</guid>
-      <description></description>
+      <description>Python, Machine Learning and Artificial Intelligence =&gt; Open Source Libraries.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Shopify</title>
       <link>https://opensourcecities.github.io/montreal/organizations/shopify/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -201,7 +201,7 @@
     </item>
     
     <item>
-      <title></title>
+      <title>Shutterstock</title>
       <link>https://opensourcecities.github.io/montreal/organizations/shutterstock/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -210,52 +210,52 @@
     </item>
     
     <item>
-      <title></title>
+      <title>SpaceConcordia</title>
       <link>https://opensourcecities.github.io/montreal/organizations/spaceconcordia/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/spaceconcordia/</guid>
-      <description></description>
+      <description>Space Concordia</description>
     </item>
     
     <item>
-      <title></title>
+      <title>subgraph</title>
       <link>https://opensourcecities.github.io/montreal/organizations/subgraph/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/subgraph/</guid>
-      <description></description>
+      <description>Subgraph OS: Adversary resistant computing platform</description>
     </item>
     
     <item>
-      <title></title>
+      <title>TransitApp</title>
       <link>https://opensourcecities.github.io/montreal/organizations/transitapp/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/transitapp/</guid>
-      <description></description>
+      <description>A commuter helping company.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>unitoio</title>
       <link>https://opensourcecities.github.io/montreal/organizations/unitoio/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/unitoio/</guid>
-      <description></description>
+      <description>Unito synchronizes your GitHub issues with Asana, Wrike, Jira, Trello, etc. Get the best of each app, work seamlessly from your favorite.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Unsplash</title>
       <link>https://opensourcecities.github.io/montreal/organizations/unsplash/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/unsplash/</guid>
-      <description></description>
+      <description>Photography, curated. Beautiful, free photos brought to you by the most generous community of photographers.</description>
     </item>
     
     <item>
-      <title></title>
+      <title>VarCI</title>
       <link>https://opensourcecities.github.io/montreal/organizations/varci/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
@@ -264,12 +264,12 @@
     </item>
     
     <item>
-      <title></title>
+      <title>wet-boew</title>
       <link>https://opensourcecities.github.io/montreal/organizations/wet-boew/</link>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/organizations/wet-boew/</guid>
-      <description></description>
+      <description>Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.</description>
     </item>
     
   </channel>
