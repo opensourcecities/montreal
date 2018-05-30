@@ -96,30 +96,5 @@ theme = "osc-theme"
             text = "Join Us!"
             link = "https://opensourcemtl.slack.com/shared_invite/MTcwNDcwMDk1NjgxLTE0OTI1NDk3NzktOTM0YzRhODExYQ"
 
-        # Other Cities
-        [[params.footer.cities]]
-            text = "Toronto"
-            link = "/toronto"
-
-        [[params.footer.cities]]
-            text = "Vancouver"
-            link = "/vancouver"
-
-        [[params.footer.cities]]
-            text = "Bratislava"
-            link = "/bratislava"
-
-        [[params.footer.cities]]
-            text = "Tokyo"
-            link = "/tokyo"
-
-        [[params.footer.cities]]
-            text = "Seoul"
-            link = "/seoul"
-
-        [[params.footer.cities]]
-            text = "Berlin"
-            link = "/berlin"
-
     # Google Analytics.
     googleAnalytics = "UA-XXXXXXXX-1"
