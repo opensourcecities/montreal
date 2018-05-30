@@ -100,9 +100,9 @@ Note: delete the commented sections from the file before committing.
 
 ## Other
 
-Create new record file with `./binaries/hugo new others/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). Then edit the newly created file with your information at:
+Create new record file with `./binaries/hugo new other/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). Then edit the newly created file with your information at:
 
-content/others/&lt;filename&gt;.yml
+content/other/&lt;filename&gt;.yml
 
 ```yml
 ---
