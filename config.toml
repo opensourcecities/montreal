@@ -54,7 +54,7 @@ theme = "osc-theme"
 
         [[params.navigation.link]]
             text = "Events"
-            link = "#events"
+            link = "events"
             anchor = "events"
 
         [[params.navigation.link]]
