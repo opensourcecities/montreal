@@ -23,90 +23,95 @@ You can add a record using any of the following three methods. We have a few met
 
 ## Organization
 
-Copy the sample file from `data/sample-org.yml` to `data/orgs/<filename>.yml`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use the name of Github organization's account for `filename`.
+Create new record file with `./binaries/hugo new organizations/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use the name of Github organization's account for `filename`. Then edit the newly created file with your information at:
 
-data/sample-org.yml
+content/organizations/&lt;filename&gt;.yml
+
 ```yml
-# name: (required)
-# github: github-account-without-spaces (required)
-# description: (optional)
-# website: (optional)
-name: Foo Org
-github: FooOrg
-description: Foo is the coolest organization account on all the GH
-website: https://foo.com/
+---
+name: "Foo Org"                                           # (required) alphanumeric with spaces
+github: "FooOrg"                                          # (required) github-account-without-spaces
+description: "Foo is the coolest org on all the GH"       # (optional)
+website: "https://foo.com/"                               # (optional)
+---
+
+Any additional content, with Markdown format can go here.
 ```
 
-Note: delete the commented section in the file before committing.
+Note: delete the commented sections from the file before committing.
 
 ## User
 
-Copy the sample file from `data/sample-user.yml` to `data/users/<filename>.yml`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use the name of Github user's account for `filename`.
+Create new record file with `./binaries/hugo new users/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use the name of Github user's account for `filename`. Then edit the newly created file with your information at:
 
-data/sample-user.yml
+content/users/&lt;filename&gt;.yml
+
 ```yml
-# name: (required)
-# github: github-account-without-spaces (required)
-# twitter: twitter-account-without-spaces (optional)
-# bio: (optional)
-# website: (optional)
-name: John Doe
-github: john-doe
-twitter: johndoe
-bio: Coolest Devloper @FooOrg on [website](https://foo.com/)
-website: https://jdoe.io/
+---
+name: "John Doe"                                          # (required) alphanumeric with spaces
+github: "john-doe"                                        # (required) github-account-without-spaces
+twitter: "johndoe"                                        # (optional) twitter-account-without-spaces
+description: "Coolest Dev @ [website](https://foo.com/)"  # (optional)
+website: "https://jdoe.io/"                               # (optional)
+---
+
+Any additional content, with Markdown format can go here.
 ```
 
-Note: delete the commented section in the file before committing.
+Note: delete the commented sections from the file before committing.
 
 ## Project
 
-Copy the sample file from `data/sample-project.yml` to `data/projects/<filename>.yml`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use `github-account-repository-name` for `filename`.
+Create new record file with `./binaries/hugo new projects/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use `github-account-repository-name` for `filename`. Then edit the newly created file with your information at:
 
-data/sample-user.yml
+content/projects/&lt;filename&gt;.yml
+
 ```yml
-# name: It is recommended to use "github-account/repository-name" as the name of the project (required)
-# link: full-url-link-to-the-project (required)
-# description: (optional)
-# website: (optional)
-name: foo-org/bar-project
-link: https://github.com/foo-org/bar-project
-description: Bar project is the best product ever, created with <3 by @FooOrg
-website: https://bar-project.io/
+---
+name: "foo-org/bar-project"                               # (required) recommended "github-account/repository-name"
+link: "https://github.com/foo-org/bar-project"            # (required) full url link to the project
+description: "Bar project is the best product ever"       # (optional)
+website: "https://bar-project.io/"                        # (optional)
+---
+
+Any additional content, with Markdown format can go here.
 ```
 
-Note: delete the commented section in the file before committing.
+Note: delete the commented sections from the file before committing.
 
 ## Incubator, School, Community
 
-Copy the sample file from `data/sample-incubator.yml` to `data/incubators/<filename>.yml`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recomended to use the name of Github incubator's account for `filename`.
+Create new record file with `./binaries/hugo new incubators/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use Github incubator's account for `filename`. Then edit the newly created file with your information at:
 
-data/sample-incubator.yml
+content/incubators/&lt;filename&gt;.yml
+
 ```yml
-# name: (required)
-# github: github-account-without-spaces (required)
-# description: (optional)
-# website: (optional)
-name: Baz Incubator
-github: Baz-Incubator
-description:
-website:
+---
+name: "Baz Incubator"                                     # (required) alphanumeric with spaces
+github: "Baz-Incubator"                                   # (optional) github-account-without-spaces
+description: ""                                           # (optional)
+website: ""                                               # (optional)
+---
+
+Any additional content, with Markdown format can go here.
 ```
 
-Note: delete the commented section in the file before committing.
+Note: delete the commented sections from the file before committing.
 
 ## Other
 
-Copy the sample file from `data/sample-other.yml` to `data/other/<sequence>.yml`, where `sequence` is a sequence of number with maximum two left zero (0). e.g. `009.yml`, `010.yml`, etc.
+Create new record file with `./binaries/hugo new others/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). Then edit the newly created file with your information at:
 
-data/sample-other.yml
+content/others/&lt;filename&gt;.yml
+
 ```yml
-# name: (required)
-# description: (optional)
-# website: (optional)
-name: Entity name which does not fall under any of above categories
-description:
-website:
+---
+name: "Name of entity which isn't any of the above"       # (required) alphanumeric with spaces
+description: ""                                           # (optional)
+website: ""                                               # (optional)
+---
+
+Any additional content, with Markdown format can go here.
 ```
 
-Note: delete the commented section in the file before committing.
+Note: delete the commented sections from the file before committing.
