@@ -4,10 +4,10 @@ You can add a record using any of the following three methods. We have a few met
 
 - Complete PR
   - add record in [README](https://github.com/opensourcecities/montreal/blob/master/README.md) AND
-  - add record's `yml` file (based on [Type of Records](#type-of-records)) in `data` folder
+  - add record's `yml` definition (based on [Type of Records](#type-of-records)) in `content` folder, in a `.md` file.
 - Partial PR
   - add record in [README](https://github.com/opensourcecities/montreal/blob/master/README.md) OR
-  - add record's `yml` file (based on [Type of Records](#type-of-records)) in `data` folder
+  - add record's `yml` definition (based on [Type of Records](#type-of-records)) in `content` folder, in a `.md` file.
 - Addition Request
   - [Open a new issue](https://github.com/RichardLitt/open-source-montreal/issues/new) and provide information for the record you want to add
 
