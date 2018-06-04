@@ -15,6 +15,7 @@ script:
   - awesome_bot README.md
       --allow-dupe
       --allow-ssl
+      --allow 302
       --skip-save-results
       --white-list https://github.com/opensourcecities/montreal/issues/new,https://github.com/opensourcecities/montreal.git
   - binaries/hugo --theme=osc-theme
