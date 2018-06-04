@@ -6,8 +6,6 @@
 
 Visit our [**Website**](https://opensourcecities.github.io/montreal/) or Join the [**Slack Group**](https://opensourcemtl.slack.com/shared_invite/MTcwNDcwMDk1NjgxLTE0OTI1NDk3NzktOTM0YzRhODExYQ)!
 
-[Website](https://deuxhuithuit.com/)
-
 ## Table of Contents
 
 - [Background](#background)
