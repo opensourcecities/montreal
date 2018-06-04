@@ -9,6 +9,7 @@ install:
   - rm -rf public || exit 0
 
 before_script:
+  - gem install danger
   - gem install awesome_bot
 
 script:
@@ -16,8 +17,8 @@ script:
       --allow-dupe
       --allow-ssl
       --allow 302
-      --skip-save-results
       --white-list https://github.com/opensourcecities/montreal/issues/new,https://github.com/opensourcecities/montreal.git
+  - danger
   - binaries/hugo --theme=osc-theme
   - echo 'Published at ' $(date) > public/README.md
 
