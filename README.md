@@ -58,6 +58,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@BetterMTL](https://github.com/bettermtl) - Data layered to engage city-wide activities and teams. [Website](https://bettermtl.github.io/).
 - [@busbud](https://github.com/busbud) [Website](https://www.busbud.com/).
 - [@ctf](https://github.com/ctf) - McGill Science Computer Taskforce. [Website](https://ctf.science.mcgill.ca/)
+- [@DeuxHuitHuit](https://github.com/DeuxHuitHuit) - Deux Huit Huit [Website](https://deuxhuithuit.com/)
 - [@e14n](https://github.com/e14n)
 - [@HackMcGill](https://github.com/hackmcgill) - [Website](http://hackmcgill.com/).
 - [@McGill-AML](https://github.com/McGill-AML) - McGill Aerospace Mechatronics Laboratory.
