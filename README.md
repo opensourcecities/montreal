@@ -97,7 +97,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@jvns](https://github.com/jvns) - Organizes [All Girl Hack Night](https://www.meetup.com/Montreal-All-Girl-Hack-Night/) [Website](https://jvns.ca/).
 - [@kamalmarhubi](https://github.com/kamalmarhubi) [Website](http://kamalmarhubi.com/).
 - [@macournoyer](https://github.com/macournoyer) - A very friendly code/life hacker from beautiful Montréal, QC.
-- [@Marek](https://github.com/marekweb) - [Website](http://www.marekzaluski.com/).
+- [@Marek](https://github.com/marekweb).
 - [@markandre](https://github.com/marcandre).
 - [@maxmx](https://github.com/maxmx) - Dev & Designer maintaining [Bootstrap Stylus](https://github.com/maxmx/bootstrap-stylus)
 - [@nbrochu](https://github.com/nbrochu) - I write open source stuff and release it under @SerpentAI 🐍. Python & JS. I also live stream on [Twitch](https://www.twitch.tv/serpent_ai)
