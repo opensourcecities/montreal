@@ -9,7 +9,7 @@ You can add a record using any of the following three methods. We have a few met
   - add record in [README](https://github.com/opensourcecities/montreal/blob/master/README.md) OR
   - add record's `yml` definition (based on [Type of Records](#type-of-records)) in `content` folder, in a `.md` file.
 - Addition Request
-  - [Open a new issue](https://github.com/RichardLitt/open-source-montreal/issues/new) and provide information for the record you want to add
+  - [Open a new issue](https://github.com/opensourcecities/montreal/issues/new) and provide information for the record you want to add
 
 > Note that if you want to send a "Partial PR" you need to check **Allow edits from maintainers** checkbox while creating the PR, so that we will be able to complete the PR and merge it.
 
@@ -25,7 +25,7 @@ You can add a record using any of the following three methods. We have a few met
 
 Create new record file with `./binaries/hugo new organizations/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use the name of Github organization's account for `filename`. Then edit the newly created file with your information at:
 
-content/organizations/&lt;filename&gt;.yml
+`content/organizations/<filename>.md`
 
 ```yml
 ---
@@ -44,7 +44,7 @@ Note: delete the commented sections from the file before committing.
 
 Create new record file with `./binaries/hugo new users/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use the name of Github user's account for `filename`. Then edit the newly created file with your information at:
 
-content/users/&lt;filename&gt;.yml
+`content/users/<filename>.md`
 
 ```yml
 ---
@@ -64,7 +64,7 @@ Note: delete the commented sections from the file before committing.
 
 Create new record file with `./binaries/hugo new projects/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use `github-account-repository-name` for `filename`. Then edit the newly created file with your information at:
 
-content/projects/&lt;filename&gt;.yml
+`content/projects/<filename>.md`
 
 ```yml
 ---
@@ -83,7 +83,7 @@ Note: delete the commented sections from the file before committing.
 
 Create new record file with `./binaries/hugo new incubators/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use Github incubator's account for `filename`. Then edit the newly created file with your information at:
 
-content/incubators/&lt;filename&gt;.yml
+`content/incubators/<filename>.md`
 
 ```yml
 ---
@@ -102,7 +102,7 @@ Note: delete the commented sections from the file before committing.
 
 Create new record file with `./binaries/hugo new other/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). Then edit the newly created file with your information at:
 
-content/other/&lt;filename&gt;.yml
+`content/other/<filename>.md`
 
 ```yml
 ---
