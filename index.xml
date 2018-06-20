@@ -6,10 +6,20 @@
     <description>Recent content on Open Source Cities - Montréal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 May 2018 10:59:07 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jun 2018 15:48:51 -0400</lastBuildDate>
     
         <atom:link href="https://opensourcecities.github.io/montreal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>eQualitie</title>
+      <link>https://opensourcecities.github.io/montreal/organizations/equalitie/</link>
+      <pubDate>Wed, 20 Jun 2018 15:48:51 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/organizations/equalitie/</guid>
+      <description>eQualitie develops open and reusable systems with a focus on privacy, online security, and information management. Our goal is to create accessible technology and improve the skill set needed for defending human rights and freedoms in the digital age.
+We are software developers and system engineers, cryptographers, security auditors, penetration testers, project managers, trainers, anthropologists, communicators and more! Most importantly, we’re all driven to promote and defend principles enshrined within the eQualitie Manifesto.</description>
+    </item>
     
     <item>
       <title>Deux Huit Huit</title>
