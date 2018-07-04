@@ -1,0 +1,33 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- path: content
+  label: Pages
+  create: all
+- path: content/events
+  label: Events
+  create: all
+- path: content/organizations
+  label: Organizations
+  create: all
+- path: content/incubators
+  label: Incubators
+  create: all
+- path: content/projects
+  label: Projects
+  create: all
+- path: content/users
+  label: Users
+  create: all
+- path: content/other
+  label: Other
+  create: all
+upload_dir: static/uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
+version: 0.42.2
