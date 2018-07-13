@@ -1,3 +1,3 @@
 ---
-title: "GitHub Organizations (Companies or Projects)"
+title: "GitHub Organizations"
 ---
