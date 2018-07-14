@@ -13,60 +13,6 @@ theme = "osc-theme"
     # The path must be relative to the static folder
     favicon = "favicon.ico"
 
-    # Navigation
-    [params.navigation]
-        brand = "/img/logo.png"
-
-        [[params.navigation.link]]
-            text = "Home"
-            link = ""
-            anchor = "page-top"
-
-        [[params.navigation.link]]
-            text = "Background"
-            link = "#background"
-            anchor = "background"
-
-        [[params.navigation.link]]
-            text = "Organizations"
-            link = "organizations"
-            anchor = "organizations"
-
-        [[params.navigation.link]]
-            text = "Projects"
-            link = "projects"
-            anchor = "projects"
-
-        [[params.navigation.link]]
-            text = "Users"
-            link = "users"
-            anchor = "users"
-
-        [[params.navigation.link]]
-            text = "Incubators"
-            link = "incubators"
-            anchor = "incubators"
-
-        [[params.navigation.link]]
-            text = "Other"
-            link = "other"
-            anchor = "other"
-
-        [[params.navigation.link]]
-            text = "Events"
-            link = "events"
-            anchor = "events"
-
-        [[params.navigation.link]]
-            text = "Contribution"
-            link = "#contribution"
-            anchor = "contribution"
-
-        [[params.navigation.link]]
-            text = "Contact"
-            link = "#contact"
-            anchor = "contact"
-
     # Hero section
     [params.hero]
         # To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
