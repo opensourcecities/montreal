@@ -23,7 +23,7 @@ You can add a record using any of the following three methods. We have a few met
 
 ## Organization
 
-Create new record file with `./binaries/hugo new organizations/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use the name of Github organization's account for `filename`. Then edit the newly created file with your information at:
+Create new record file with `./hugow new organizations/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use the name of Github organization's account for `filename`. Then edit the newly created file with your information at:
 
 `content/organizations/<filename>.md`
 
@@ -42,7 +42,7 @@ Note: delete the commented sections from the file before committing.
 
 ## User
 
-Create new record file with `./binaries/hugo new users/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use the name of Github user's account for `filename`. Then edit the newly created file with your information at:
+Create new record file with `./hugow new users/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use the name of Github user's account for `filename`. Then edit the newly created file with your information at:
 
 `content/users/<filename>.md`
 
@@ -62,7 +62,7 @@ Note: delete the commented sections from the file before committing.
 
 ## Project
 
-Create new record file with `./binaries/hugo new projects/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use `github-account-repository-name` for `filename`. Then edit the newly created file with your information at:
+Create new record file with `./hugow new projects/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use `github-account-repository-name` for `filename`. Then edit the newly created file with your information at:
 
 `content/projects/<filename>.md`
 
@@ -81,7 +81,7 @@ Note: delete the commented sections from the file before committing.
 
 ## Incubator, School, Community
 
-Create new record file with `./binaries/hugo new incubators/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use Github incubator's account for `filename`. Then edit the newly created file with your information at:
+Create new record file with `./hugow new incubators/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). It is recommended to use Github incubator's account for `filename`. Then edit the newly created file with your information at:
 
 `content/incubators/<filename>.md`
 
@@ -100,7 +100,7 @@ Note: delete the commented sections from the file before committing.
 
 ## Other
 
-Create new record file with `./binaries/hugo new other/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). Then edit the newly created file with your information at:
+Create new record file with `./hugow new other/<filename>.md`, where `filename` must be lowercase alphanumeric. No special character is allowed except hyphen (`-`) and underscore (`_`). Then edit the newly created file with your information at:
 
 `content/other/<filename>.md`
 

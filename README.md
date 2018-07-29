@@ -153,7 +153,7 @@ This site is built with [Hugo](https://gohugo.io/) and uses an external theme fr
 ```bash
 git clone --recurse-submodules https://github.com/opensourcecities/montreal.git
 cd montreal
-./binaries/hugo server
+./hugow server
 ```
 
 - To generate the site:
@@ -162,7 +162,7 @@ cd montreal
 git clone --recurse-submodules https://github.com/opensourcecities/montreal.git
 cd montreal
 rm -rf public/
-./binaries/hugo
+./hugow
 ```
 
 ## License
