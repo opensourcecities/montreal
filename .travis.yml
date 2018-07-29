@@ -19,7 +19,7 @@ script:
       --allow 302
       --white-list https://github.com/opensourcecities/montreal/issues/new,https://github.com/opensourcecities/montreal.git
   - danger
-  - binaries/hugo --theme=osc-theme
+  - ./hugow --theme=osc-theme
   - echo 'Published at ' $(date) > public/README.md
 
 deploy:
