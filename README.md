@@ -51,6 +51,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [Rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs. [Website](https://shutterstock.github.io/rickshaw/)
 - [SVProgressHUD](https://github.com/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
 - [Vanilla Forums](https://vanillaforums.com/en/software/) - Cloud-based community forum software. (Not on GitHub).
+- [villedemontreal/workit](https://github.com/VilledeMontreal/workit) - Extensible worker for Node.js that works with both Zeebe and Camunda BPM platforms powered by TypeScript. [Website](https://villedemontreal.github.io/workit/)
 - [Wikitravel.org](https://wikitravel.org/en/Main_Page) - Since 2003: the original free, crowdsourced travel guide with 300,000 writer/travelers visiting every day.
 
 ## GitHub Organizations (Companies or Projects)
