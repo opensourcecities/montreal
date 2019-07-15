@@ -49,6 +49,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [plotly.js](https://github.com/plotly/plotly.js) - Javascript graphing library
 - [pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API. [Website](http://pump.io/)
 - [Rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs. [Website](https://shutterstock.github.io/rickshaw/)
+- [stmcli](https://github.com/stmcli/stmcli) - The unofficial STM CLI client.
 - [SVProgressHUD](https://github.com/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
 - [Vanilla Forums](https://vanillaforums.com/en/software/) - Cloud-based community forum software. (Not on GitHub).
 - [villedemontreal/workit](https://github.com/VilledeMontreal/workit) - Extensible worker for Node.js that works with both Zeebe and Camunda BPM platforms powered by TypeScript. [Website](https://villedemontreal.github.io/workit/)
