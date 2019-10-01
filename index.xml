@@ -6,10 +6,20 @@
     <description>Recent content on Open Source Cities - Montréal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 16:32:43 -0400</lastBuildDate>
     
         <atom:link href="https://opensourcecities.github.io/montreal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/code-of-conduct/</link>
+      <pubDate>Tue, 01 Oct 2019 16:32:43 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/code-of-conduct/</guid>
+      <description>All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
+The Quick Version Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.</description>
+    </item>
     
     <item>
       <title></title>
