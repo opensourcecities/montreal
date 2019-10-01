@@ -7,7 +7,7 @@ eventtime: 7:00 PM to 9:00 PM
 venue: Caravan Coop
 location: 5605 Avenue de Gaspé, Suite 204, Montreal, QC
 coordinate: 45.528171,-73.5980124
-show: true
+show: false
 ---
 
 Let's get together along with the group of people already united around https://github.com/opensourcecities/montreal to

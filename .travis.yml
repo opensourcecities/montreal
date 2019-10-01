@@ -3,7 +3,7 @@ notifications:
 
 language: ruby
 rvm:
-  - 2.2
+  - 2.3
 
 install:
   - rm -rf public || exit 0
