@@ -1,5 +1,5 @@
 ---
-date: 2019-10-09
+date: 2019-10-01
 title: osmtl#3 Hacktoberfest special
 link: https://www.meetup.com/Open-Source-Montreal/events/264825988/
 eventdate: Wednesday, Oct 09, 2019
