@@ -37,18 +37,18 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [broidHQ/integrations](https://github.com/broidHQ/integrations) - Connect your App to Multiple Messaging Channels with the W3C Open standard.
 - [Compactr](https://github.com/compactr) - Serialization protocol.
 - [gnu-social](https://git.gnu.io/gnu/gnu-social) - The free software social networking platform. [Website](https://gnu.io/social/)
-- [jmechner/Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](http://www.jordanmechner.com/backstage/journals/).
+- [jmechner/Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](https://www.jordanmechner.com/backstage/journals/).
 - [Kalm](https://github.com/kalm/kalm.js) - Node socket wrapper and optimizer. [Website](http://kalm.js.org/).
 - [macournoyer/neuralconvo](https://github.com/macournoyer/neuralconvo) - Neural conversational model in Torch.
-- [macournoyer/thin](https://github.com/macournoyer/thin) - A very fast & simple Ruby web server. [Website](http://code.macournoyer.com/thin/).
-- [macournoyer/tinyrb](https://github.com/macournoyer/tinyrb) - A tiny subset of Ruby with a Lua'esc VM. [Website]( http://code.macournoyer.com/tinyrb/).
+- [macournoyer/thin](https://github.com/macournoyer/thin) - A very fast & simple Ruby web server. [Website](https://rubygems.org/gems/thin).
+- [macournoyer/tinyrb](https://github.com/macournoyer/tinyrb) - A tiny subset of Ruby with a Lua'esc VM. [Website](https://github.com/macournoyer/tinyrb).
 - [MLDB.ai](https://github.com/mldbai) - An open-source database designed for machine learning. [Website](https://mldb.ai/).
 - [monica](https://github.com/monicahq/monica) - Personal Relationship Manager - a CRM to manage your friends and family. [Website](https://www.monicahq.com/).
 - [nicolaskruchten/pivottable](https://github.com/nicolaskruchten/pivottable/) - Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop. [Website](https://pivottable.js.org/).
 - [Parse](https://github.com/parse-community)
 - [plotly.js](https://github.com/plotly/plotly.js) - Javascript graphing library
 - [pump.io](https://github.com/pump-io/pump.io) - Social server with an ActivityStreams API. [Website](http://pump.io/)
-- [Rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs. [Website](https://shutterstock.github.io/rickshaw/)
+- [Rickshaw](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs. [Website](https://tech.shutterstock.com/rickshaw/)
 - [stmcli](https://github.com/stmcli/stmcli) - The unofficial STM CLI client.
 - [SVProgressHUD](https://github.com/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
 - [Vanilla Forums](https://vanillaforums.com/en/software/) - Cloud-based community forum software. (Not on GitHub).
@@ -63,15 +63,15 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@DeuxHuitHuit](https://github.com/DeuxHuitHuit) - Deux Huit Huit [Website](https://deuxhuithuit.com/)
 - [@e14n](https://github.com/e14n)
 - [@eQualitie](https://github.com/equalitie/) - Digital Security for Civil Society. [Website](https://equalit.ie/).
-- [@HackMcGill](https://github.com/hackmcgill) - [Website](http://hackmcgill.com/).
+- [@HackMcGill](https://github.com/hackmcgill) - [Website](https://hackmcgill.com/).
 - [@McGill-AML](https://github.com/McGill-AML) - McGill Aerospace Mechatronics Laboratory.
 - [@McGill-CSB](https://github.com/McGill-CSB) - McGill Computational Structure Biology. [Website](http://csb.cs.mcgill.ca/).
 - [@McGill-Robotics](https://github.com/mcgill-robotics) - Engineering Design Team. [Website](https://mcgillrobotics.com/).
-- [@McGillX](https://github.com/McGillX) - McGillX: MOOC Initiative at McGill University [Website](https://www.mcgill.ca/tls/projects/mcgillx).
+- [@McGillX](https://github.com/McGillX) - McGillX: MOOC Initiative at McGill University [Website](https://www.mcgill.ca/tls/about/our-projects/mcgillx).
 - [@MeteorMTL](https://github.com/MeteorMTL)
 - [@mldbai](https://github.com/mldbai) [Website](https://mldb.ai/).
-- [@mtlpy](https://github.com/mtlpy) [Website](http://montrealpython.org/en/).
-- [@OpenNorth](https://github.com/opennorth/) - Open North creates websites to promote government transparency and public participation. [Website](http://www.opennorth.ca/).
+- [@mtlpy](https://github.com/mtlpy) [Website](https://montrealpython.org/en/).
+- [@OpenNorth](https://github.com/opennorth/) - Open North creates websites to promote government transparency and public participation. [Website](https://www.opennorth.ca/).
 - [@plotly](https://github.com/plotly) - A data visualization company. [Website](https://plot.ly).
 - [@printourhome](https://github.com/PrintOurHome) - Upcoming organisation to design and print real 3D Habitations [Website](http://www.printourhome.com/en/home/).
 - [@pump-io](https://github.com/pump-io) - Social server with an ActivityStreams API. [Website]( http://pump.io).
@@ -109,27 +109,27 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@pcuci](https://github.com/pcuci) - Health-tech entrepreneur, game ops tech lead, full-stack UXer, community architect. [Website](https://bettermtl.github.io).
 - [@RichardLitt](https://github.com/RichardLitt) - Full stack JavaScript developer, computational linguist, and community organizer. [Website](https://www.burntfen.com).
 - [@robroc](https://github.com/robroc) - Data journalist at CBC/Radio-Canada. Organizes [Hacks/Hackers MTL](https://www.meetup.com/hackshackersmontreal/).
-- [@ruyadorno](https://github.com/ruyadorno) - Software developer and open source contributor. [Website](http://ruyadorno.com).
+- [@ruyadorno](https://github.com/ruyadorno) - Software developer and open source contributor. [Website](https://ruyadorno.com).
 - [@samvermette](https://github.com/samvermette) - iOS developer and designer based in Montréal. [Website](http://samvermette.com/)
 - [@sayar](https://github.com/sayar) - Senior Tech Evangelist @MicrosoftDX. [Website](https://ramisayar.com/).
 - [@shawnthompson](https://github.com/shawnthompson) - Front end web developer for the Government of Canada.
 - [@shayanb](https://github.com/shayanb) - Blockchain Engineer, PhD student focused on blockchain technology.
-- [@ziad-saab](https://github.com/ziad-saab) - Full-stack developer and teacher at DecodeMTL. [Website](http://www.ziad.cc/).
+- [@ziad-saab](https://github.com/ziad-saab) - Full-stack developer and teacher at DecodeMTL. [Website](https://www.ziad.cc/).
 
 ## Incubators, Schools, and Communities
 
-- [DecodeMTL](https://github.com/DecodeMTL) - Full-stack JavaScript bootcamp in Montreal, Canada. [Website](https://www.decodemtl.com/).
+- [DecodeMTL](https://github.com/DecodeMTL) - Full-stack JavaScript bootcamp in Montreal, Canada. [Website](https://concordiabootcamps.ca/).
 - [Les Pitonneux](https://github.com/pitonneux) - A skills incubator in Montreal for people learning to code online. [Website](https://www.pitonneux.org/).
 - [Nodeschool Montreal](https://github.com/nodeschool/montreal) - Montreal NodeSchool chapter. [Website](https://nodeschool.io/montreal/).
-- [Notman House (startup community)](https://github.com/maison-notman-house) - Various parts of this publically accessible building are powered via these open-source repositories on github. [Website](http://notman.org)
+- [Notman House (startup community)](https://github.com/maison-notman-house) - Various parts of this publically accessible building are powered via these open-source repositories on github. [Website](https://notman.org)
 
 ## Other lists
 
 - [StartUp Open House Event](https://www.startupopenhouse.com/event/montreal-2016-2/)
-- [BuiltInMTL](http://builtinmtl.com/)
+- [BuiltInMTL](https://builtinmtl.com/)
 - [BetterMTL](https://bettermtl.github.io/reseau/)
 - [FACIL](https://wiki.facil.qc.ca/view/Informatique_libre_au_Qu%C3%A9bec)
-- [Notman's Startup Community Map](http://notman.org/)
+- [Notman's Startup Community Map](https://notman.org/)
 - [NodeSchool Montreal's Project List](https://nodeschool.io/montreal/)
 - [Rollodeqc.com](https://streaker.rollodeqc.com/) - A live list of GitHub users publicly coding in Montreal (a streak counter for GitHub).
 - [Agenda du Libre Montréal](https://agendadulibre.qc.ca/) - An agenda and calendar for Open Source in Montréal.
