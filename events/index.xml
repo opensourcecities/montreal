@@ -6,10 +6,22 @@
     <description>Recent content in Events on Open Source Cities - Montréal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://opensourcecities.github.io/montreal/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/events/meetup-october-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/events/meetup-october-2019/</guid>
+      <description>Let’s kickoff the new season of meetups by diving into #Hacktoberfest! If you haven’t already heard about it, head over to https://hacktoberfest.digitalocean.com/ and register to track your progress throughout the month.
+Schedule: - 5:00pm Open doors, arrive early to meet the group - 6:00pm Start presentation of the day - 6:30pm Lightning talks
+This month we&amp;rsquo;ll have Kim Noel talking about Open Source!
+ We’ll go through a kick run down of the history behind Hacktoberfest, an intro to open source and a short demo about contributing – what a documentation contribution looks like, what a code sample contribution looks like, and maybe even checkout some core code contributions!</description>
+    </item>
     
     <item>
       <title></title>
