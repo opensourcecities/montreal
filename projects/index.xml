@@ -6,10 +6,28 @@
     <description>Recent content in Projects on Open Source Cities - Montréal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 25 May 2018 12:34:37 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2019 09:10:37 -0400</lastBuildDate>
     
         <atom:link href="https://opensourcecities.github.io/montreal/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>stmcli</title>
+      <link>https://opensourcecities.github.io/montreal/projects/stmcli/</link>
+      <pubDate>Mon, 15 Jul 2019 09:10:37 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/stmcli/</guid>
+      <description>The unofficial STM CLI client.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensourcecities.github.io/montreal/projects/villedemontreal-workit/</link>
+      <pubDate>Sun, 30 Jun 2019 13:05:09 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/villedemontreal-workit/</guid>
+      <description>Extensible worker for Node.js that works with both Zeebe and Camunda BPM platforms powered by TypeScript</description>
+    </item>
     
     <item>
       <title>broidHQ/integrations</title>
