@@ -35,8 +35,9 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [AmpMe](https://github.com/AmpMe) - Sync your phone with friends to create the world's most portable sound system. [Website](http://ampme.com/).
 - [BadgeFactor](https://github.com/DigitalPygmalion/badge-factor) - Badge Factor is a "glue" plugin which brings together functionalities of BadgeOS, Gravity Forms and Advanced Custom Fields in a coherent, autonomous digital badge issuing and backpacking solution. [Website](http://digitalpygmalion.com/).
 - [broidHQ/integrations](https://github.com/broidHQ/integrations) - Connect your App to Multiple Messaging Channels with the W3C Open standard.
-- [Compactr](https://github.com/compactr) - Serialization protocol.
+- [Compactr](https://github.com/compactr) - Schema-based serialization protocol.
 - [gnu-social](https://git.gnu.io/gnu/gnu-social) - The free software social networking platform. [Website](https://gnu.io/social/)
+- [HA-store](https://github.com/fed135/ha-store) - A data loader for your node projects.
 - [jmechner/Prince of Persia Apple II](https://github.com/jmechner/Prince-of-Persia-Apple-II) - A running-jumping-swordfighting game I made on the Apple II from 1985-89. [Website](https://www.jordanmechner.com/backstage/journals/).
 - [Kalm](https://github.com/kalm/kalm.js) - Node socket wrapper and optimizer. [Website](http://kalm.js.org/).
 - [macournoyer/neuralconvo](https://github.com/macournoyer/neuralconvo) - Neural conversational model in Torch.
@@ -93,7 +94,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@chriddyp](https://github.com/chriddyp)
 - [@danieljakots](https://github.com/danieljakots) - OpenBSD developer and Python user. [Website](https://chown.me/)
 - [@djaiss](https://github.com/djaiss) - Founder of @monicahq.
-- [@fed135](https://github.com/fed135) - I ❤️ Node - - - - - - - - - - - - - - - - - - Curr: Software Eng. @shutterstock Past: EA, Ubisoft, Stolo.
+- [@fed135](https://github.com/fed135) - CTO @devsea-org, Principal Eng @getMylo
 - [@flovilmart](https://twitter.com/flovilmart) - Dad, BDFL on https://github.com/parse-community and https://github.com/parse-server-modules. Tech Lead @AmpMe.
 - [@jadb](https://github.com/jadb) - Father. Husband. Co-founder @VarCI. Maintainer @ApiGen. Core @cakephp. Creator @UseMuffin / @gourmet.
 - [@jpmckinney](https://github.com/jpmckinney) - Contributions to OpenNorth and Montréal Ouvert
