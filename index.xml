@@ -6,10 +6,19 @@
     <description>Recent content on Open Source Cities - Montréal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2019 16:32:43 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2019 12:00:00 -0400</lastBuildDate>
     
         <atom:link href="https://opensourcecities.github.io/montreal/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ha-store</title>
+      <link>https://opensourcecities.github.io/montreal/projects/fed135-ha-store/</link>
+      <pubDate>Wed, 09 Oct 2019 12:00:00 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/fed135-ha-store/</guid>
+      <description>A data loader for your node applications</description>
+    </item>
     
     <item>
       <title></title>
@@ -635,7 +644,7 @@ Deux Huit Huit is always looking for new talented people.</description>
       <pubDate>Fri, 25 May 2018 12:34:37 -0400</pubDate>
       
       <guid>https://opensourcecities.github.io/montreal/users/fed135/</guid>
-      <description>I ❤️ Node  Curr Software Eng. @shutterstock Past EA, Ubisoft, Stolo</description>
+      <description>CTO @devsea-org, Principal Eng. @getMylo</description>
     </item>
     
     <item>

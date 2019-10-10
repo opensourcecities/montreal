@@ -6,10 +6,19 @@
     <description>Recent content in Projects on Open Source Cities - Montréal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jul 2019 09:10:37 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2019 12:00:00 -0400</lastBuildDate>
     
         <atom:link href="https://opensourcecities.github.io/montreal/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>ha-store</title>
+      <link>https://opensourcecities.github.io/montreal/projects/fed135-ha-store/</link>
+      <pubDate>Wed, 09 Oct 2019 12:00:00 -0400</pubDate>
+      
+      <guid>https://opensourcecities.github.io/montreal/projects/fed135-ha-store/</guid>
+      <description>A data loader for your node applications</description>
+    </item>
     
     <item>
       <title>stmcli</title>
