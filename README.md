@@ -115,6 +115,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@sayar](https://github.com/sayar) - Senior Tech Evangelist @MicrosoftDX. [Website](https://ramisayar.com/).
 - [@shawnthompson](https://github.com/shawnthompson) - Front end web developer for the Government of Canada.
 - [@shayanb](https://github.com/shayanb) - Blockchain Engineer, PhD student focused on blockchain technology.
+- [@weitieda](https://github.com/weitieda) - iOS Developer. [Website](https://www.tiedawei.com/)
 - [@ziad-saab](https://github.com/ziad-saab) - Full-stack developer and teacher at DecodeMTL. [Website](https://www.ziad.cc/).
 
 ## Incubators, Schools, and Communities
