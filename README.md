@@ -54,6 +54,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [SVProgressHUD](https://github.com/SVProgressHUD) - A clean and lightweight progress HUD for your iOS and tvOS app.
 - [Vanilla Forums](https://vanillaforums.com/en/software/) - Cloud-based community forum software. (Not on GitHub).
 - [villedemontreal/workit](https://github.com/VilledeMontreal/workit) - Extensible worker for Node.js that works with both Zeebe and Camunda BPM platforms powered by TypeScript. [Website](https://villedemontreal.github.io/workit/)
+- [WikiSuite.org](https://wikisuite.org/) - While Wikipedia is the broadest unified body of knowledge, WikiSuite is the most comprehensive and integrated Open Source enterprise solution.
 - [Wikitravel.org](https://wikitravel.org/en/Main_Page) - Since 2003: the original free, crowdsourced travel guide with 300,000 writer/travelers visiting every day.
 
 ## GitHub Organizations (Companies or Projects)
@@ -101,6 +102,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@jvns](https://github.com/jvns) - Organizes [All Girl Hack Night](https://www.meetup.com/Montreal-All-Girl-Hack-Night/) [Website](https://jvns.ca/).
 - [@kamalmarhubi](https://github.com/kamalmarhubi) [Website](http://kamalmarhubi.com/).
 - [@macournoyer](https://github.com/macournoyer) - A very friendly code/life hacker from beautiful Montréal, QC.
+- [@MarcLaporte](https://github.com/marclaporte) - Founder of [WikiSuite.org](https://WikiSuite.org) and CEO of [EvoluData.com](https://EvoluData.com)
 - [@Marek](https://github.com/marekweb).
 - [@markandre](https://github.com/marcandre).
 - [@maxmx](https://github.com/maxmx) - Dev & Designer maintaining [Bootstrap Stylus](https://github.com/maxmx/bootstrap-stylus)
