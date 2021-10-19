@@ -85,6 +85,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@Subgraph](https://github.com/subgraph) - Subgraph OS: Adversary resistant computing platform [Website](https://subgraph.com/)
 - [@TransitApp](https://github.com/transitapp) - A commuter helping company. [Website](https://transit.app/).
 - [@unitoio](https://github.com/unitoio) - Unito synchronizes your GitHub issues with Asana, Wrike, Jira, Trello, etc. Get the best of each app, work seamlessly from your favorite.
+- [@UnoPlatform](https://github.com/unoplatform) - The only platform for building Mobile, Desktop and WebAssembly with C# and XAML from a single codebase. Open source and professionally supported. [Website](https://platform.uno/).
 - [@Unsplash](https://github.com/unsplash) - Photography, curated. Beautiful, free photos brought to you by the most generous community of photographers. [Website](https://unsplash.com/).
 - [VarCI](https://github.com/varci)
 - [@wet-boew](https://github.com/wet-boew) - Web Experience Toolkit (WET): Open source code library for building innovative websites that are accessible, usable, interoperable, mobile-friendly and multilingual. This collaborative open source project is led by the Government of Canada.
