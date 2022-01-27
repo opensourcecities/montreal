@@ -93,6 +93,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 ## Users with Open Source projects
 
 - [@ajmas](https://github.com/ajmas)
+- [@alfreddagenais](https://github.com/alfreddagenais) - Full-stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> based in Montréal 👨🏻‍💻. [Website](https://alfreddagenais.com) [Blog](https://www.kilukru.dev)
 - [@chriddyp](https://github.com/chriddyp)
 - [@danieljakots](https://github.com/danieljakots) - OpenBSD developer and Python user. [Website](https://chown.me/)
 - [@djaiss](https://github.com/djaiss) - Founder of @monicahq.
