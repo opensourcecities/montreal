@@ -121,7 +121,7 @@ These projects have been developed mainly in Montréal, or by Montréalers.
 - [@shayanb](https://github.com/shayanb) - Blockchain Engineer, PhD student focused on blockchain technology.
 - [@weitieda](https://github.com/weitieda) - iOS Developer. [Website](https://www.tiedawei.com/)
 - [@ziad-saab](https://github.com/ziad-saab) - Full-stack developer and teacher at DecodeMTL. [Website](https://www.ziad.cc/).
-
+- [@Darsh0307](https://github.com/Darsh0307) - Software developer at Uno platform  , Bachelors of Computer science at Concordia.
 ## Incubators, Schools, and Communities
 
 - [DecodeMTL](https://github.com/DecodeMTL) - Full-stack JavaScript bootcamp in Montreal, Canada. [Website](https://concordiabootcamps.ca/).
